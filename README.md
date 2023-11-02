@@ -1,11 +1,11 @@
-língua portuguesa
+Língua Portuguesa
 
-👨‍💻 Desenvolvedor Full Stack com expertise em front-end e back-end (HTML, CSS, JS, Python, PHP) e habilidades em 🧠 IA, 🌐 IoT, 🔐 segurança cibernética, 🎨 design (3D/2D) e 🗄️ banco de dados (MySQL, PHP e Python). Crio experiências digitais de alta qualidade e soluções avançadas.
+👨‍💻 Sou um Desenvolvedor Full Stack com expertise tanto em front-end quanto em back-end (HTML, CSS, JS, Python e PHP), além de habilidades em áreas como 🧠 Inteligência Artificial, 🌐 Internet das Coisas, 🔐 Segurança Cibernética, 🎨 Design (3D/2D) e 🗄️ Bancos de Dados (MySQL, PHP e Python). Com a minha formação em Engenharia de Software, crio experiências digitais de alta qualidade e desenvolvo soluções avançadas.
 
 Inglês
 
-👨‍💻 Full Stack Developer with expertise in front-end and back-end (HTML, CSS, JS, Python, PHP) and skills in 🧠 AI, 🌐IoT, 🔐 cybersecurity, 🎨 design (3D/2D) and 🗄️ database (MySQL, PHP e Python). I create high-quality digital experiences and advanced solutions.
+👨‍💻 I'm a Full Stack Developer with expertise in both front-end and back-end (HTML, CSS, JS, Python, and PHP), as well as skills in 🧠 AI, 🌐 IoT, 🔐 cybersecurity, 🎨 design (3D/2D), and 🗄️ databases (MySQL, PHP, and Python). With a background in Software Engineering, I create high-quality digital experiences and develop advanced solutions.
 
 Spanish
 
-👨‍💻 Desarrollador Full Stack con experiencia en front-end y back-end (HTML, CSS, JS, Python, PHP) y habilidades en 🧠 IA,🌐 IoT,🔐 ciberseguridad, 🎨 diseño (3D/2D) y 🗄️ bases de datos (MySQL, PHP e Python). Creo experiencias digitales de alta calidad y soluciones avanzadas.
+👨‍💻 Soy un Desarrollador Full Stack con experiencia tanto en front-end como en back-end (HTML, CSS, JS, Python y PHP), además de habilidades en áreas como 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, 🎨 diseño (3D/2D) y 🗄️ bases de datos (MySQL, PHP y Python). Con mi formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
