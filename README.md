@@ -36,16 +36,14 @@
 
 <br>
 <p>Links :</p>
-
-   <a href = "mailto: luannpmends@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href="luannpmendes@gmail.com" title="Email">
+      <img width="30" src="email-icon.svg" alt="Email Icon">
     </a>
-    <a href = "[ttps://www.linkedin.com/in/luann-pereira-mendes-81706826a/)">
-      <img width="25" src="linkedin.svg">
+    <a href="https://www.linkedin.com" title="LinkedIn">
+      <img width="25" src="linkedin-icon.svg" alt="LinkedIn Icon">
     </a>
-    <a href = "(https://www.instagram.com/luannpmendes8/)">
-      <img width="25" src="instagram.png">
+    <a href="[https://www.instagram.com](https://www.instagram.com/luannpmendes8/)" title="Instagram">
+      <img width="25" src="instagram-icon.png" alt="Instagram Icon">
     </a>
-</div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
