@@ -29,9 +29,11 @@
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img align="center" alt="Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
   <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-          
-
 </div>
+
+  <div>
+  <img align="left" height="500" alt="coding-time" src="tenor.gif">
+  </div> 
 
 <br>
 <p>🔍 LINKS :</p>
