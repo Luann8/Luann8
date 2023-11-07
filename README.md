@@ -12,6 +12,8 @@
 
 <br>
 
+<h1>Skills :</h1>
+
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="tenor.gif">
@@ -32,6 +34,8 @@
 </div>
 
 ##  
+
+<h1>Links :</h1>
 
 <div> 
   <a href="https://www.instagram.com/luannpmendes8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
