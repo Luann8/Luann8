@@ -38,8 +38,12 @@
   <a href="https://www.linkedin.com/in/luann-pereira-mendes-81706826a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+##
+
   <div>
-  <img align="left" height="500" alt="coding-time" src="tenor.gif">
+  <img align="left" height="350" alt="coding-time" src="tenor.gif">
   </div> 
+
+##
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
