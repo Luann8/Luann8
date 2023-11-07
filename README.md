@@ -14,10 +14,9 @@
 
 <br>
 
-  <div>
+  <div align="center">>
   <img align="center" height="300" alt="coding-time" src="tenor.gif">
-
-## 
+  </div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
