@@ -41,7 +41,7 @@
 ##
 
   <div>
-  <img align="left" height="350" alt="coding-time" src="tenor.gif">
+  <img align="center" height="300" alt="coding-time" src="tenor.gif">
   </div> 
 
 ##
