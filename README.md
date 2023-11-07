@@ -14,7 +14,6 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="500" alt="coding-time" src="tenor.gif">
     <h1 align="center"></h1>
 <p>💻 SKILLS :</p>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
