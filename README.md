@@ -12,8 +12,6 @@
 
 <br>
 
-<h1>Skills :</h1>
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="tenor.gif">
