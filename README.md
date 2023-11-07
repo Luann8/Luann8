@@ -16,7 +16,6 @@
 
   <div>
   <img align="center" height="300" alt="coding-time" src="tenor.gif">
-  </div> 
 
 ## 
 
