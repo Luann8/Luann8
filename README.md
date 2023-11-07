@@ -29,6 +29,7 @@
   <img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
 </div>
 
+<br>
 <p>Links :</p>
 
 <div> 
