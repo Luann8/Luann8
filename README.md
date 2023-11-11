@@ -9,13 +9,10 @@
 ## Español
 
 👨‍💻 Soy un Desarrollador Full Stack con experiencia tanto en front-end como en back-end (HTML, CSS, JS, Python y PHP), además de habilidades en áreas como 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, 🎨 diseño (3D/2D) y 🗄️ bases de datos (MySQL, PHP y Python). Con mi formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
+
+
 </div>
-
 ##
-   <div align="center">
-  <img align="center" height="300" alt="coding-time" src="tenor.gif">
-  </div>
-
 
 
 <div  align="center"> 
@@ -50,6 +47,9 @@
     <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </section>
 
+   <div align="center">
+  <img align="center" height="300" alt="coding-time" src="tenor.gif">
+  </div>
 <br>
 <h2>🔍 LINKS :</h2>
   <div align="center">
