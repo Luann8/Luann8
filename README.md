@@ -46,7 +46,7 @@
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </section>
-
+<br>
    <div align="center">
   <img align="center" height="300" alt="coding-time" src="tenor.gif">
   </div>
