@@ -1,4 +1,4 @@
-<img align="center" style="[margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo.png" />
+<img align="center" style="[margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo1.png" />
 &nbsp;&nbsp;&nbsp;
 ##  Português
 
