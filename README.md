@@ -11,6 +11,11 @@
 👨‍💻 Soy un Desarrollador Full Stack con experiencia tanto en front-end como en back-end (HTML, CSS, JS, Python y PHP), además de habilidades en áreas como 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, 🎨 diseño (3D/2D) y 🗄️ bases de datos (MySQL, PHP y Python). Con mi formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
 </div>
 
+##
+  <div align="center">
+  <img align="center" height="300" alt="coding-time" src="tenor.gif">
+  </div>
+
 <div  align="left"> 
   <div style="display: inline_block"><br>
     <h1 align="left"></h1>
@@ -59,10 +64,6 @@
   <a href="https://www.linkedin.com/in/luann-pereira-mendes-81706826a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-##
-  <div align="center">
-  <img align="center" height="300" alt="coding-time" src="tenor.gif">
-  </div>
 
 ## 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
