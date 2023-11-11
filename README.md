@@ -12,9 +12,6 @@
 
 
 </div>
-##
-
-
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <h1 align="center"></h1>
