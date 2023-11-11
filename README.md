@@ -12,10 +12,9 @@
 
 
 </div>
-<div  align="left"> 
+<div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="left"></h1>
-  <img align="right" height="200" alt="coding-time" src="tenor.gif">
+    <h1 align="center"></h1>
 <h2>💻 SKILLS :</h2>
 <section>
     <h2>Backend Development:</h2>
@@ -46,6 +45,7 @@
   <div align="center">
   </section>
 
+  <img align="center" height="400" alt="coding-time" src="tenor.gif">
   
   </div>
 <br>
