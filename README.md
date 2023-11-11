@@ -14,8 +14,8 @@
   <div style="display: inline_block"><br>
   <h1 align="left"></h1>
 
-## 💻 SKILLS :
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+## 💻 SKILLS :
 
 ### Backend Development:
 
