@@ -11,9 +11,9 @@
 👨‍💻 Soy un Desarrollador Full Stack con experiencia tanto en front-end como en back-end (HTML, CSS, JS, Python y PHP), además de habilidades en áreas como 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, 🎨 diseño (3D/2D) y 🗄️ bases de datos (MySQL, PHP y Python). Con mi formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
 </div>
 
-<div  align="center"> 
+<div  align="left"> 
   <div style="display: inline_block"><br>
-    <h1 align="center"></h1>
+    <h1 align="left"></h1>
 <p>💻 SKILLS :</p>
 <!-- Backend Development -->
 <section>
