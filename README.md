@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://raw.githubusercontent.com/Luann8/Luann8/main/fundo.png)">
 
 ##  Português
 
