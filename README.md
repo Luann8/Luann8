@@ -35,6 +35,7 @@
     <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </section>
 
+  <img align="right" height="200" alt="coding-time" src="tenor.gif">
 <!-- Data Science -->
 <section>
     <h2>Data Science & IDE:</h2>
@@ -44,7 +45,6 @@
     <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
   <div align="center">
   
-  <img align="right" height="200" alt="coding-time" src="tenor.gif">
   
   </div>
 <br>
