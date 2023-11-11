@@ -10,14 +10,16 @@
 
 👨‍💻 Soy un Desarrollador Full Stack con experiencia tanto en front-end como en back-end (HTML, CSS, JS, Python y PHP), además de habilidades en áreas como 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, 🎨 diseño (3D/2D) y 🗄️ bases de datos (MySQL, PHP y Python). Con mi formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
 
+  <img align="center" height="300" alt="coding-time" src="tenor.gif">
 
 </div>
-<div  align="center"> 
+<div  align="left"> 
   <div style="display: inline_block"><br>
-    <h1 align="center"></h1>
-  <img align="center" height="300" alt="coding-time" src="tenor.gif">
+    <h1 align="left"></h1>
 <h2>💻 SKILLS :</h2>
-<section>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+ <section>
     <h2>Backend Development:</h2>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
