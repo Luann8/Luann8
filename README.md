@@ -16,9 +16,9 @@
   <img align="center" height="300" alt="coding-time" src="tenor.gif">
   </div>
 
-<div  align="left"> 
+<div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="left"></h1>
+    <h1 align="center"></h1>
 <h2>💻 SKILLS :</h2>
 <section>
     <h2>Backend Development:</h2>
@@ -50,7 +50,7 @@
 
 <br>
 <h2>🔍 LINKS :</h2>
-  <div align="left">
+  <div align="center">
   <a href="https://www.instagram.com/luannpmendes8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:luannpmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luann-pereira-mendes-81706826a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
