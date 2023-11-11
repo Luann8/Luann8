@@ -1,5 +1,6 @@
 <img align="center" style="[margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo1.png" />
 &nbsp;&nbsp;&nbsp;
+
 ##  Português
 
 👨‍💻 Sou um Desenvolvedor Full Stack com expertise tanto em front-end quanto em back-end (HTML, CSS, JS, Python e PHP), além de habilidades em áreas como 🧠 Inteligência Artificial, 🌐 Internet das Coisas, 🔐 Segurança Cibernética, 🎨 Design (3D/2D) e 🗄️ Bancos de Dados (MySQL, PHP e Python). Com a minha formação em Engenharia de Software, crio experiências digitais de alta qualidade e desenvolvo soluções avançadas.
