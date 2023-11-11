@@ -58,4 +58,6 @@
 
 
 ## 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+    <img src="https://peakvise.ch/wp-content/uploads/2018/07/7efc801b5b4c6e8c3965aeaf4a9c5348-768x796.png" alt="Imagem de Exemplo" style="max-width: 100%;">
+</div>
