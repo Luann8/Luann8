@@ -53,7 +53,9 @@
   </div>
 
 <br>
+  <section>
   <img align="center" height="300" alt="coding-time" src="tenor.gif">
 
 ## 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+</section>
