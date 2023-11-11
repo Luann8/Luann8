@@ -20,7 +20,8 @@
   <div style="display: inline_block"><br>
     <h1 align="left"></h1>
 <h2>💻 SKILLS :</h2>
-<!-- Backend Development -->
+<br>
+    <!-- Backend Development -->
 <section>
     <h2>Backend Development:</h2>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
