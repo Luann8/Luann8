@@ -1,3 +1,5 @@
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
 ##  Português
 
 👨‍💻 Sou um Desenvolvedor Full Stack com expertise tanto em front-end quanto em back-end (HTML, CSS, JS, Python e PHP), além de habilidades em áreas como 🧠 Inteligência Artificial, 🌐 Internet das Coisas, 🔐 Segurança Cibernética, 🎨 Design (3D/2D) e 🗄️ Bancos de Dados (MySQL, PHP e Python). Com a minha formação em Engenharia de Software, crio experiências digitais de alta qualidade e desenvolvo soluções avançadas.
