@@ -12,9 +12,9 @@
 </div>
 
 ##
-  <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-    <img src="https://peakvise.ch/wp-content/uploads/2018/07/7efc801b5b4c6e8c3965aeaf4a9c5348-768x796.png" alt="Imagem de Exemplo" style="width: 512px; max-width: 100%;">
-</div>
+   <div align="center">
+  <img align="center" height="300" alt="coding-time" src="tenor.gif">
+  </div>
 
 
 
