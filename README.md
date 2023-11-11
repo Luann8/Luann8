@@ -19,7 +19,7 @@
 <div  align="left"> 
   <div style="display: inline_block"><br>
     <h1 align="left"></h1>
-<p>💻 SKILLS :</p>
+<h>💻 SKILLS :</h>
 <!-- Backend Development -->
 <section>
     <h2>Backend Development:</h2>
@@ -49,15 +49,8 @@
     <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 </section>
 
-
-
-
-
-
-
-
 <br>
-<p>🔍 LINKS :</p>
+<h>🔍 LINKS :</h>
   <div align="left">
   <a href="https://www.instagram.com/luannpmendes8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:luannpmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
