@@ -12,7 +12,7 @@
 
 
 </div>
-<div  align="center"> 
+<div  align="left"> 
   <div style="display: inline_block"><br>
     <h1 align="left"></h1>
 <h2>💻 SKILLS :</h2>
@@ -42,17 +42,20 @@
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-   <div align="center">
+  <div align="center">
+  
   <img align="right" height="200" alt="coding-time" src="tenor.gif">
+  
   </div>
 <br>
-<section
+<section>
   <h2>🔍 LINKS :</h2>
   <div align="center">
   <a href="https://www.instagram.com/luannpmendes8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:luannpmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luann-pereira-mendes-81706826a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+</section>
+  </div>
 
 
 ## 
