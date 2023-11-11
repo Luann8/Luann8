@@ -17,7 +17,6 @@
     <h1 align="left"></h1>
 <h2>💻 SKILLS :</h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-      <h2>💻 Skills:</h2>
     <section>
         <h2>Backend Development:</h2>
         <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
