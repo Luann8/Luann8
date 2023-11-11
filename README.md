@@ -16,6 +16,7 @@
   <div style="display: inline_block"><br>
     <h1 align="center"></h1>
 <h2>💻 SKILLS :</h2>
+  <img align="center" height="300" alt="coding-time" src="tenor.gif">
 <section>
     <h2>Backend Development:</h2>
     <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -45,7 +46,6 @@
   <div align="center">
   </section>
 
-  <img align="center" height="400" alt="coding-time" src="tenor.gif">
   
   </div>
 <br>
