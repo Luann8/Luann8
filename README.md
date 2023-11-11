@@ -42,13 +42,12 @@
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-</section>
-<br>
    <div align="center">
-  <img align="center" height="300" alt="coding-time" src="tenor.gif">
+  <img align="center" height="200" alt="coding-time" src="tenor.gif">
   </div>
 <br>
-<h2>🔍 LINKS :</h2>
+<section
+  <h2>🔍 LINKS :</h2>
   <div align="center">
   <a href="https://www.instagram.com/luannpmendes8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:luannpmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
