@@ -14,7 +14,7 @@
 </div>
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <h1 align="center"></h1>
+    <h1 align="left"></h1>
 <h2>💻 SKILLS :</h2>
 <section>
     <h2>Backend Development:</h2>
@@ -43,7 +43,7 @@
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
     <img align="center" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
    <div align="center">
-  <img align="center" height="200" alt="coding-time" src="tenor.gif">
+  <img align="right" height="200" alt="coding-time" src="tenor.gif">
   </div>
 <br>
 <section
