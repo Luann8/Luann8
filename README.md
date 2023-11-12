@@ -46,14 +46,7 @@
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
-<img width=33% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&mode=weekly&row=2&no-bg=true&column=3&margin-w=15&margin-h=15""/>
-</div>
   
-  </div>
-  
-  </div>
 
 <br>
 <section>
@@ -66,6 +59,10 @@
   <a href="https://www.linkedin.com/in/luann-pereira-mendes-81706826a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </section>
   </div>
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
+<img width=33% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&mode=weekly&row=2&no-bg=true&column=3&margin-w=15&margin-h=15""/>
+</div>
 
 <br>
   <section>
