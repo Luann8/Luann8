@@ -73,7 +73,7 @@
 
   <div  align="center"> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&bg_color=282a36&color=bd93f9&line=ff79c6&point=6272a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&bg_color=ff0000&color=ffffff&line=00ff00&point=ff00ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <div align="center">
   <a href="https://www.instagram.com/luannpmendes8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
