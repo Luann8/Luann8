@@ -72,7 +72,7 @@
 <div  align="center" style="margin-bottom:100px">
 
   <div  align="center"> 
-   <img align="center" height="300" alt="coding-time" src="tenor.gif">
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&bg_color=282a36&color=bd93f9&line=ff79c6&point=6272a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <div align="center">
   <a href="https://www.instagram.com/luannpmendes8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
