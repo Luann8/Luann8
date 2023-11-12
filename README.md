@@ -3,15 +3,15 @@
 
 ##  Português
 
-👨‍💻 Sou um Desenvolvedor Full Stack com expertise tanto em front-end quanto em back-end (HTML, CSS, JS, Python e PHP), além de habilidades em áreas como 🧠 Inteligência Artificial, 🌐 Internet das Coisas, 🔐 Segurança Cibernética, 🎨 Design (3D/2D) e 🗄️ Bancos de Dados (MySQL, PHP e Python). Com a minha formação em Engenharia de Software, crio experiências digitais de alta qualidade e desenvolvo soluções avançadas.
+👨‍💻 Sou um Desenvolvedor Full Stack com experiência tanto em front-end quanto em back-end (HTML, CSS, JS, Python e PHP), além de habilidades em áreas como 🧠 Inteligência Artificial, 🌐 Internet das Coisas, 🔐 Segurança Cibernética, ☁️ Computação em Nuvem, e 🗄️ Bancos de Dados (MySQL, PHP e Python). Com minha formação em Engenharia de Software, crio experiências digitais de alta qualidade e desenvolvo soluções avançadas.
 
 ## English
 
-👨‍💻 I'm a Full Stack Developer with expertise in both front-end and back-end (HTML, CSS, JS, Python, and PHP), as well as skills in 🧠 AI, 🌐 IoT, 🔐 cybersecurity, 🎨 design (3D/2D), and 🗄️ databases (MySQL, PHP, and Python). With a background in Software Engineering, I create high-quality digital experiences and develop advanced solutions.
+👨‍💻 I'm a Full Stack Developer with expertise in both front-end and back-end (HTML, CSS, JS, Python, and PHP), as well as skills in 🧠 AI, 🌐 IoT, 🔐 cybersecurity, ☁️ cloud computing, and 🗄️ databases (MySQL, PHP, and Python). With a background in Software Engineering, I create high-quality digital experiences and develop advanced solutions.
 
 ## Español
 
-👨‍💻 Soy un Desarrollador Full Stack con experiencia tanto en front-end como en back-end (HTML, CSS, JS, Python y PHP), además de habilidades en áreas como 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, 🎨 diseño (3D/2D) y 🗄️ bases de datos (MySQL, PHP y Python). Con mi formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
+👨‍💻 Soy un Desarrollador Full Stack con experiencia tanto en front-end como en back-end (HTML, CSS, JS, Python y PHP), además de habilidades en áreas como 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, ☁️ computación en la nube, y 🗄️ bases de datos (MySQL, PHP y Python). Con mi formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
 
 
 <div style="display: inline_block"><br>
