@@ -64,7 +64,7 @@
 ## 
 <div  align="center" style="margin-bottom:100px">
 
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=Luann8)](https://git.io/streak-stats) 
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Luann8)]
 
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
 </div>
