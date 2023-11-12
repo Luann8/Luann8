@@ -69,6 +69,7 @@
 </div>
   
   <section>
+<br>
 
   <div  align="center"> 
    <img align="center" height="300" alt="coding-time" src="tenor.gif">
