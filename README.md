@@ -14,7 +14,7 @@
 👨‍💻 Soy un Desarrollador Full Stack con experiencia tanto en front-end como en back-end (HTML, CSS, JS, Python y PHP), además de habilidades en áreas como 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, 🎨 diseño (3D/2D) y 🗄️ bases de datos (MySQL, PHP y Python). Con mi formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
 
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8=compact&theme=adical&mode=weekly)](https://github.com/Luann8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8=compact&theme=adical&mode=weekly)](https://github.com/anuraghazra/github-readme-stats)
 
 
   <div  align="left"> 
