@@ -62,9 +62,9 @@
 </div>
 
 ## 
-
+<div>
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
-<img width=33% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&mode=weekly&row=2&no-bg=true&column=3&margin-w=15&margin-h=15""/>
+ <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   <section>
