@@ -62,8 +62,7 @@
 </div>
 
 ## 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&bg_color=282a36&color=bd93f9&line=ff79c6&point=6272a4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div>
+
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
 <img width=33% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&mode=weekly&row=2&no-bg=true&column=3&margin-w=15&margin-h=15""/>
 </div>
