@@ -73,7 +73,8 @@
 
   <div  align="center"> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=000000&color=FF79C6&line=BD93F9&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=nord&hide_border=true&bg_color=2E3440&color=88C0D0&line=81A1C1&point=8FBCBB&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
   
   <div align="center">
