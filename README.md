@@ -3,15 +3,15 @@
 
 ##  Português
 
-👨‍💻 Sou um Desenvolvedor Full Stack com ênfase no back-end (Python, PHP), e habilidades em 🧠 Inteligência Artificial, 🌐 Internet das Coisas, 🔐 Segurança Cibernética, ☁️ Computação em Nuvem, e 🗄️ Bancos de Dados (MySQL, PHP, e Python). Apesar da falta de experiência, minha formação em Engenharia de Software me capacita para criar experiências digitais de alta qualidade e desenvolver soluções avançadas.
+👨‍💻 Desenvolvedor Full Stack, ênfase no back-end (Python, PHP), habilidades em 🧠 Inteligência Artificial, 🌐 Internet das Coisas, 🔐 Segurança Cibernética, ☁️ Computação em Nuvem e 🗄️ Bancos de Dados (MySQL, PHP, e Python). Com formação em Engenharia de Software, crio experiências digitais de alta qualidade e desenvolvo soluções avançadas.
 
 ## English
 
-👨‍💻 I'm a Full Stack Developer with a focus on the back-end (Python, PHP), and skills in 🧠 AI, 🌐 IoT, 🔐 cybersecurity, ☁️ cloud computing, and 🗄️ databases (MySQL, PHP, and Python). Despite lacking experience, my background in Software Engineering equips me to create high-quality digital experiences and develop advanced solutions.
+👨‍💻 Full Stack Developer with a focus on the back-end (Python, PHP), skills in 🧠 AI, 🌐 IoT, 🔐 cybersecurity, ☁️ cloud computing, and 🗄️ databases (MySQL, PHP, and Python). With a background in Software Engineering, I create high-quality digital experiences and develop advanced solutions.
 
 ## Español
 
-👨‍💻 Soy un Desarrollador Full Stack con énfasis en el back-end (Python, PHP), y habilidades en 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, ☁️ computación en la nube, y 🗄️ bases de datos (MySQL, PHP y Python). A pesar de la falta de experiencia, mi formación en Ingeniería de Software me capacita para crear experiencias digitales de alta calidad y desarrollar soluciones avanzadas.
+👨‍💻 Desarrollador Full Stack con énfasis en el back-end (Python, PHP), habilidades en 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 ciberseguridad, ☁️ computación en la nube y 🗄️ bases de datos (MySQL, PHP y Python). Con formación en Ingeniería de Software, creo experiencias digitales de alta calidad y desarrollo soluciones avanzadas.
 
 <div style="display: inline_block"><br>
 
