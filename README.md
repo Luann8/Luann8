@@ -15,7 +15,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
-<img width=35% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+<img width=33% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&mode=weekly"/>
 </div>
 
 <div style="display: inline_block"><br>
