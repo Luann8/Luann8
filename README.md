@@ -45,7 +45,7 @@
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-
+<img alt="Anaconda" src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=anaconda&logoColor=white" />
   
 
 <br>
