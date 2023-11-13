@@ -1,12 +1,14 @@
 <img align="center" style="[margin-bottom:100px" width=100% src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" />
 &nbsp;&nbsp;&nbsp;
 
+## Português
+
 👨‍💻 Full Stack com ênfase no back-end (Python, PHP), apaixonado por Ciência de Dados. Habilidades em 🧠 Inteligência Artificial, 🌐 Internet das Coisas, 🔐 Segurança Cibernética, ☁️ Computação em Nuvem, e 🗄️ Bancos de Dados (MySQL, PHP, e Python). Formação em Engenharia de Software, dedicado a criar experiências digitais de alta qualidade e desenvolver soluções avançadas.
 
-English
+## English
 👨‍💻 Full Stack with a focus on the back-end (Python, PHP), passionate about Data Science. Skills in 🧠 Artificial Intelligence, 🌐 Internet of Things, 🔐 Cybersecurity, ☁️ Cloud Computing, and 🗄️ Databases (MySQL, PHP, and Python). Background in Software Engineering, dedicated to creating high-quality digital experiences and developing advanced solutions.
 
-Español
+## Español
 👨‍💻 Full Stack con énfasis en el back-end (Python, PHP), apasionado por la Ciencia de Datos. Habilidades en 🧠 Inteligencia Artificial, 🌐 Internet de las Cosas, 🔐 Ciberseguridad, ☁️ Computación en la Nube y 🗄️ Bases de Datos (MySQL, PHP y Python). Formación en Ingeniería de Software, dedicado a crear experiencias digitales de alta calidad y desarrollar soluciones avanzadas.
 
 <div style="display: inline_block"><br>
