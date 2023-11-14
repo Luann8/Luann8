@@ -62,7 +62,7 @@
 
 <img width=39% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=theme=radical&mode=weekly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=radical&mode=weekly"/>
 
 
 </div>
