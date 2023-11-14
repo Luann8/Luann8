@@ -70,6 +70,9 @@
 
   <div  align="left"> 
 
+## 🏆Trophies:
+
+<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
@@ -78,6 +81,3 @@
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 </section>
 
-## 🏆Trophies:
-
-<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
