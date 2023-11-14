@@ -69,7 +69,7 @@
 
 <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=radical&mode=weekly"/>
   
-<img width=39% align="center"  src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+<img width=37% align="center"  src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 
 
 <div/>
