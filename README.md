@@ -48,9 +48,6 @@
 ## 🏆Trophies:
 <img width=110% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
 
-
-
- <div>
 <div  align="center" style="margin-bottom:100px">
 
 
