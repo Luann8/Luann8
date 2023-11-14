@@ -68,12 +68,6 @@
 
 
 
-</div>
-
-<div  align="center" style="margin-bottom:100px">
-
-
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=radical&mode=weekly"/>
   
 
 
