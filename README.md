@@ -45,10 +45,6 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-## 🏆Trophies:
-<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
-
-##
 
 <div  align="center" style="margin-bottom:100px">
 
@@ -57,6 +53,9 @@
 
 <div/>
   
+## 🏆Trophies:
+<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
+##
   <section>
 <br>
 <div  align="center" style="margin-bottom:100px">
