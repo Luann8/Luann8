@@ -60,7 +60,7 @@
 
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&rank=S&column=commits" />
+<img src="[https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&rank=S&column=commits](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S)" />
 
 
 
