@@ -3,15 +3,15 @@
 
 ## Português
 
-👨‍💻 Full Stack cursando Engenharia de Software com ênfase em Ciência de Dados. Profundo conhecimento em 🧠 Inteligência Artificial, 📡 Internet das Coisas (IoT), 🔐 Segurança Cibernética e ☁️ Computação em Nuvem. Experiência sólida em 🗄️ Bancos de Dados e 🌐 Desenvolvimento Web. Dedicado a criar experiências digitais de alta qualidade e desenvolver soluções avançadas, integrando as melhores práticas da Ciência de Dados em todas as etapas do desenvolvimento.
+👨‍💻 Full Stack cursando Engenharia de Software com ênfase em Ciência de Dados. Conhecimento em 🧠 Inteligência Artificial, 📡 Internet das Coisas (IoT), 🔐 Segurança Cibernética, ☁️ Computação em Nuvem 🗄️ Bancos de Dados e 🌐 Desenvolvimento Web. Dedicado a criar experiências digitais e desenvolver soluções sempre.
 
 ## English
 
-👨‍💻 Full Stack currently pursuing a degree in Software Engineering with a focus on Data Science. Deep knowledge in 🧠 Artificial Intelligence, 📡 Internet of Things (IoT), 🔐 Cybersecurity, and ☁️ Cloud Computing. Solid experience in 🗄️ Databases and 🌐 Web Development. Committed to creating high-quality digital experiences and developing advanced solutions, integrating best practices from Data Science throughout the entire development process.
+👨‍💻 Full Stack studying Software Engineering with emphasis on Data Science. Knowledge in 🧠 Artificial Intelligence, Internet of Things (IoT), 🔐 Cybersecurity, Cloud Computing 🗄️, 📡 ☁️ Databases and 🌐 Web Development. Dedicated to creating digital experiences and developing solutions always.
 
 ## Español
 
-👨‍💻 Full Stack en curso de Ingeniería de Software con énfasis en Ciencia de Datos. Conocimiento profundo en 🧠 Inteligencia Artificial, 📡 Internet de las Cosas (IoT), 🔐 Ciberseguridad y ☁️ Computación en Nube. Experiencia sólida en 🗄️ Bases de Datos y 🌐 Desarrollo Web. Dedicado a crear experiencias digitales de alta calidad y desarrollar soluciones avanzadas, integrando las mejores prácticas de Ciencia de Datos en todas las etapas del desarrollo.
+👨‍💻  Full Stack estudiando Ingeniería de Software con énfasis en Ciencia de Datos. Conocimientos en 🧠 Inteligencia Artificial, Internet de las Cosas (IoT), 🔐 Ciberseguridad, Cloud Computing 🗄️, 📡 ☁️ Bases de Datos y 🌐 Desarrollo Web. Dedicados a crear experiencias digitales y desarrollar soluciones siempre.
 
 <div style="display: inline_block"><br>
 
