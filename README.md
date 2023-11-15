@@ -3,7 +3,13 @@
 
 ## Português
 
-👨‍💻 Full Stack cursando Engenharia de Software com ênfase em Ciência de Dados. Conhecimento em 🧠 Inteligência Artificial, 📡 Internet das Coisas (IoT), 🔐 Segurança Cibernética, ☁️ Computação em Nuvem 🗄️ Bancos de Dados e 🌐 Desenvolvimento Web. Dedicado a criar experiências digitais e desenvolver soluções sempre.
+👨‍💻 Full Stack cursando Engenharia de Software com ênfase em Ciência de Dados.
+Conhecimento em 🧠 Inteligência Artificial, 
+📡 Internet das Coisas (IoT), 
+🔐 Segurança Cibernética, 
+☁️ Computação em Nuvem 
+🗄️ Bancos de Dados 
+🌐 Desenvolvimento Web.
 
 ## English
 
