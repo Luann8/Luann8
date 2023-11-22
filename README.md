@@ -1,10 +1,7 @@
-![Imagem de um cachorro](https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg)
+<img src="caminho/para/imagem.png" alt="Minha animação">
 
-<div class="typing-message">
-I'am Luann8 👨‍💻
-</div>
 
-<img align="center" style="margin-bottom:100px" width="100%" src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" />
+<img align="center" alt=animate-img style="margin-bottom:100px" width="100%" src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" />
 &nbsp;&nbsp;&nbsp;
 
 ## Português
@@ -85,3 +82,9 @@ I'am Luann8 👨‍💻
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 </section>
+
+<style>
+.animate-img {
+Animação: Pulse 0.8s Ease-In-Out Infinite
+}
+</style>
