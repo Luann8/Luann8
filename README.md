@@ -1,28 +1,5 @@
-![Background Image](https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg)
+<img src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" alt="AI Designing with Data" width="1000" height="300">
 
-<div style="position: relative;">
-  <div style="position: absolute; top: 50%; left: 60%; transform: translate(-50%, -50%); font-family: 'Courier New', monospace; font-size: 24px; overflow: hidden; white-space: nowrap; border-right: 2px solid #000;">
-    <span>I am Luann 8</span>
-    <div style="display: inline-block; vertical-align: middle; width: 2px; height: 1em; background-color: #000; animation: blink 1s infinite;"></div>
-  </div>
-</div>
-
-<style>
-@keyframes typing {
-  from {
-    width: 0;
-  }
-  to {
-    width: 100%;
-  }
-}
-
-@keyframes blink {
-  50% {
-    background-color: transparent;
-  }
-}
-</style>
 
 <img align="center" alt=animate-img style="margin-bottom:100px" width="100%" src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" />
 &nbsp;&nbsp;&nbsp;
