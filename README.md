@@ -1,4 +1,4 @@
-<img src="https://github.com/Luann8/Luann8/blob/main/fundo3.jpg" alt="AI Designing with Data" width="1000" height="300">
+<img src="https://github.com/Luann8/Luann8/blob/main/fundo5.jpg" alt="AI Designing with Data" width="1000" height="300">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
