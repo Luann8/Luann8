@@ -1,6 +1,6 @@
 <img src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" alt="AI Designing with Data" width="1000" height="300">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
