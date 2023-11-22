@@ -2,18 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
-## Português
-
-👨‍💻 Full Stack cursando Engenharia de Software com ênfase em Ciência de Dados. Conhecimento em 🌐 Desenvolvimento Web, 📡 Internet das Coisas (IoT), 🔐 Segurança Cibernética, ☁️ Computação em Nuvem, 🗄️ Bancos de Dados, 🧠 Inteligência Artificial e learn machine . Dedicado enfrentar uma variedade de desafios no mundo da tecnologia.
-
-## English
-
-👨‍💻 Full Stack student pursuing Software Engineering with a focus on Data Science. Proficient in 🌐 Web Development, 📡 Internet of Things (IoT), 🔐 Cybersecurity, ☁️ Cloud Computing, 🗄️ Databases, 🧠 Artificial Intelligence, and Machine Learning. Committed to tackling a variety of challenges in the world of technology.
-
-## Español
-
-👨‍💻 Estudiante de Full Stack cursando Ingeniería de Software con énfasis en Ciencia de Datos. Con conocimientos en 🌐 Desarrollo Web, 📡 Internet de las Cosas (IoT), 🔐 Ciberseguridad, ☁️ Computación en la Nube, 🗄️ Bases de Datos, 🧠 Inteligencia Artificial y Aprendizaje Automático. Comprometido a enfrentar una variedad de desafíos en el mundo de la tecnología.
-
 <div style="display: inline_block"><br>
 
 <div align="left">
