@@ -1,6 +1,6 @@
 <img src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" alt="AI Designing with Data" width="1000" height="300">
 
-<h1 align="center">Luann8</h1>
+<p align="center" style="color: gold;">I am <strong>Luann8 👨‍💻 </strong>.</p>
 
 
 
