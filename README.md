@@ -1,4 +1,4 @@
-<img src="https://media0.giphy.com/media/kdFV0AYQ5cHvKSrZcK/source.gif" alt="AI Designing with Data" width="1000" height="300">
+<img src="https://th.bing.com/th/id/R.ff690aab34fc4ff0dff74a15f1a81901?rik=lqrwI%2bMSL42%2fhw&pid=ImgRaw&r=0" alt="AI Designing with Data" width="1000" height="300">
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
