@@ -1,10 +1,23 @@
 <img src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" alt="AI Designing with Data" width="1000" height="300">
 
+# Luann8
 
-<img align="center" alt=animate-img style="margin-bottom:100px" width="100%" src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" />
-&nbsp;&nbsp;&nbsp;
+I am **Luann8**. 
 
-## Português
+<h1 align="center">Luann8</h1>
+
+<p align="center">I am <strong>Luann8</strong>.</p>
+
+<p align="center">
+  <pre>
+    L
+    Lu
+    Lua
+    Luan
+    Luann
+    Luann8
+  </pre>
+</p>
 
 👨‍💻 Full Stack cursando Engenharia de Software com ênfase em Ciência de Dados. Conhecimento em 🌐 Desenvolvimento Web, 📡 Internet das Coisas (IoT), 🔐 Segurança Cibernética, ☁️ Computação em Nuvem, 🗄️ Bancos de Dados, 🧠 Inteligência Artificial e learn machine . Dedicado enfrentar uma variedade de desafios no mundo da tecnologia.
 
