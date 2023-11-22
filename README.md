@@ -2,18 +2,7 @@
 
 <h1 align="center">Luann8</h1>
 
-<p align="center">I am <strong>Luann8</strong>.</p>
 
-<p align="center">
-  <pre>
-    L
-    Lu
-    Lua
-    Luan
-    Luann
-    Luann8
-  </pre>
-</p>
 
 👨‍💻 Full Stack cursando Engenharia de Software com ênfase em Ciência de Dados. Conhecimento em 🌐 Desenvolvimento Web, 📡 Internet das Coisas (IoT), 🔐 Segurança Cibernética, ☁️ Computação em Nuvem, 🗄️ Bancos de Dados, 🧠 Inteligência Artificial e learn machine . Dedicado enfrentar uma variedade de desafios no mundo da tecnologia.
 
