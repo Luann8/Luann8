@@ -1,4 +1,4 @@
-<img src="caminho/para/imagem.png" alt="Minha animação">
+<img src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" alt="animate-img">
 
 
 <img align="center" alt=animate-img style="margin-bottom:100px" width="100%" src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" />
