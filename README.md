@@ -19,7 +19,7 @@
 <div align="left">
 <div style="display: inline_block">
 
-## 💻 SKILLS:
+## 💻 Skills:
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -80,9 +80,3 @@
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
 </section>
-
-<style>
-.animate-img {
-Animação: Pulse 0.8s Ease-In-Out Infinite
-}
-</style>
