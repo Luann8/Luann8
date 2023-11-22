@@ -1,5 +1,10 @@
-<img src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" alt="animate-img">
+![Animação de Pulso](https://i.imgur.com/Tkj8XPZ.gif)
 
+<script src="style.css"></script>
+
+<div class="animate-img">
+<img src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" alt="animate-img">
+</div>
 
 <img align="center" alt=animate-img style="margin-bottom:100px" width="100%" src="https://raw.githubusercontent.com/Luann8/Luann8/main/fundo2.jpg" />
 &nbsp;&nbsp;&nbsp;
