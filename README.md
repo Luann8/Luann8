@@ -40,9 +40,8 @@
 
 <div align="center" style="margin-bottom:100px">
 
-  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=green-dark&mode=weekly" />
-  <img width=39% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=green-dark&mode=weekly"/>
-</div>
+<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
+<img width=39% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
 
 <div/>
 
@@ -50,7 +49,7 @@
 <br>
 <div align="center" style="margin-bottom:100px">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=gradient&hide_border=true&bg_color=141424&color=4CAF50&line=BD93F9&point=6272A4&area=true&border_color=34343c)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=4CAF50&line=BD93F9&point=6272A4&area=true&border_color=34343c)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">
 <a href="https://www.instagram.com/luannpmendes8/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4CAF50?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:luannpmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-4CAF50?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -63,7 +62,7 @@
 
 ## 🏆Trophies:
 
-<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=green-dark" />
+<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer"/>
 
