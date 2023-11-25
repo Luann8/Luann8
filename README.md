@@ -40,8 +40,9 @@
 
 <div align="center" style="margin-bottom:100px">
 
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=gradient&mode=weekly" />
-<img width=39% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=gradient&mode=weekly"/>
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=green-dark&mode=weekly" />
+  <img width=39% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=green-dark&mode=weekly"/>
+</div>
 
 <div/>
 
@@ -62,7 +63,7 @@
 
 ## 🏆Trophies:
 
-<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=gradient" />
+<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=green-dark" />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer"/>
 
