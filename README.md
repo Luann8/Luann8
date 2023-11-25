@@ -4,10 +4,12 @@
 
 
 
-<div style="display: flex; justify-content: space-between;">
+<p align="center">
   <img width="55%" src="https://your-edited-image-url1.png" alt="Streak Stats" />
+</p>
+<p align="center">
   <img width="39%" src="https://your-edited-image-url2.png" alt="Top Languages" />
-</div>
+</p>
 
 
 <section>
