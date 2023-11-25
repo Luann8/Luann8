@@ -2,7 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=502c58&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)](https://git.io/typing-svg)
 
-
+<div align="center" style="margin-bottom:100px">
 
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
 <img width=39% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
