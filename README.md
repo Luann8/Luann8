@@ -19,8 +19,6 @@
 ## 🏆Trophies:
 
 <img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=github-compact" />
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=120&section=footer"/>
  
 ### Backend Development :
 
