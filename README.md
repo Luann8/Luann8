@@ -1,21 +1,17 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23e4ecf4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
-
-
 <div align="center">
-<div style="display: inline_block">
-
- ## ⚙️Soft skills:
-
-</div>
+  <div style="display: inline_block">
+    <h2>⚙️ Soft skills:</h2>
+  </div>
 </div>
 
 <div align="left">
-<div style="display: inline_block">
+  <div style="display: inline_block">
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Backend Development :
 
@@ -42,29 +38,25 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
+</div>
+
 ##
 
 <div align="center" style="margin-bottom:100px">
-
-<img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
-<img width="39%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
+  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
+  <img width="39%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
+</div>
 
 <section>
-<br>
-<div align="center" style="margin-bottom:100px">
+  <div align="center" style="margin-bottom:100px">
+    <h2>GitHub Activity Graph:</h2>
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <h2>🏆 Trophies:</h2>
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
 
-
-
-
-
-## 🏆Trophies:
-
-<img width=100% align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+</section>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-</section>
