@@ -6,10 +6,10 @@
   <div style="display: inline_block">
   </div>
 </div>
+    <h2>⚙️ Soft skills:</h2>
 
 <div align="left">
   <div style="display: inline_block">
-    <h2>⚙️ Soft skills:</h2>
 
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
