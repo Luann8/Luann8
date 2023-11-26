@@ -2,7 +2,6 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffd700&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <div align="center">
@@ -16,6 +15,7 @@
 <div align="left">
 <div style="display: inline_block">
 
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Backend Development :
 
