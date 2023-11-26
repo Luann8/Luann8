@@ -4,9 +4,9 @@
 
 <div align="center">
   <div style="display: inline_block">
+    <h2>⚙️ Soft skills:</h2>
   </div>
 </div>
-    <h2>⚙️ Soft skills:</h2>
 
 <div align="left">
   <div style="display: inline_block">
