@@ -8,7 +8,7 @@
 <div align="center">
 <div style="display: inline_block">
 
- ## Skills💻
+ ## Skills 💻
 
 </div>
 </div>
