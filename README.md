@@ -7,7 +7,7 @@
 <div align="center">
 <div style="display: inline_block">
 
- ## Skills 💻
+ ## Soft skills 💻
 
 </div>
 </div>
