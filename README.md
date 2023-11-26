@@ -42,6 +42,8 @@
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
+##
+
 <div align="center" style="margin-bottom:100px">
 
 <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
