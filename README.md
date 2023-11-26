@@ -4,8 +4,8 @@
 
 <div align="center">
   <div style="display: inline_block">
-    <h2>⚙️ Soft skills:</h2>
   </div>
+    <h2>⚙️ Soft skills:</h2>
 </div>
 
 <div align="left">
