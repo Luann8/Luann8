@@ -42,7 +42,7 @@
 
 <section>
   <div align="center" style="margin-bottom:100px">
-    <h2>📈GitHub Activity Graph:</h2>
+    <h2>📈 GitHub Activity Graph:</h2>
 
 <div align="center" style="margin-bottom:100px">
   <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
