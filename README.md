@@ -47,11 +47,12 @@
     
 <h2 align="center">📈 GitHub Activity Graph:</h2>
 
+
 <div align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
   
+  <!-- GitHub Repository Language Distribution -->
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luann8&theme=radical)
 </div>
 
