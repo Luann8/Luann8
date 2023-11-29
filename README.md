@@ -2,6 +2,8 @@
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23e4ecf4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
+##
+
 <div align="center">
   <div style="display: inline_block">
     <h2>⚙️ Soft skills:</h2>
