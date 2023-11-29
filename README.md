@@ -58,7 +58,11 @@
   <div align="left" style="margin-bottom:100px">
 
   <h2>🏆 Trophies:</h2>
-  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
+
+<div align="center">
+  <h2>🏆 Todos os Troféus:</h2>
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical" />
+</div>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 </section>
