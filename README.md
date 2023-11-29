@@ -45,10 +45,7 @@
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luann8&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luann8&theme=radical) |
 | :-: | :-: | 
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luann8&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luann8&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luann8&theme=radical&utcOffset=8) |
-| :-: | :-: | :-: |
-
+ 
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c)](https://github.com/ashutosh00710/github-readme-activity-graph)
