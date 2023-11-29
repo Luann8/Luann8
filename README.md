@@ -48,7 +48,7 @@
    <h2>📈 GitHub Activity Graph:</h2>
 <section>
 
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical" style="border: none;" /> | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luann8&theme=radical) |
+| ![](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luann8&theme=radical) |
 | :-: | :-: |
 
 
