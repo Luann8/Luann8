@@ -4,7 +4,7 @@
 
 ##
 
-<div align="center">
+<div align="left">
   <div style="display: inline_block">
     <h2>⚙️ Soft skills:</h2>
   </div>
@@ -41,7 +41,7 @@
 </div>
 
 
-  <div align="center" style="margin-bottom:100px">
+  <div align="left" style="margin-bottom:100px">
     
 ##
     
@@ -55,7 +55,7 @@
 | :-: |
   
   </div>
-  <div align="center" style="margin-bottom:100px">
+  <div align="left" style="margin-bottom:100px">
 
   <h2>🏆 Trophies:</h2>
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
