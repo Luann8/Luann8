@@ -46,7 +46,7 @@
 </div>
 
   <div align="center" style="margin-bottom:100px">
-    <h2>📈 GitHub status:</h2>
+    <h2>📊 GitHub status:</h2>
 <section>
 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode==weekly&hide_border=true&layout=compact) |  
