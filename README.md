@@ -7,7 +7,7 @@
 
 <div align="center">
   <div style="display: inline_block">
-    <h2>⚙️ Soft skills:</h2>
+   ⚙️ Soft skills:
   </div>
 </div>
 
