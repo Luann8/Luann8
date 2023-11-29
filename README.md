@@ -45,15 +45,21 @@
     
 ##
     
-   <h2>📈 GitHub Activity Graph:</h2>
-<section>
+<h2 align="center">📈 GitHub Activity Graph:</h2>
 
-| [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&hide_border=true)](https://git.io/streak-stats) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luann8&theme=radical) |
-| :-: | :-: |
+<div align="center">
+  <!-- GitHub Streak -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
+  <!-- GitHub Repository Language Distribution -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luann8&theme=radical)
+</div>
 
-| [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c)](https://github.com/ashutosh00710/github-readme-activity-graph) |
-| :-: |
+<div align="center">
+  <!-- Ashutosh's GitHub Activity Graph -->
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
+
   
   </div>
   <div align="left" style="margin-bottom:100px">
