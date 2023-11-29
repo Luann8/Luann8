@@ -43,10 +43,12 @@
     <h2>📈 GitHub Activity Graph:</h2>
 <section>
 
-<div align="center" style="margin-bottom:100px">
-  <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly" />
-  <img width="39%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=7&theme=radical&mode=weekly"/>
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luann8&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luann8&theme=radical) |
+| :-: | :-: | 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luann8&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luann8&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luann8&theme=radical&utcOffset=8) |
+| :-: | :-: | :-: |
+
 <br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c)](https://github.com/ashutosh00710/github-readme-activity-graph)
