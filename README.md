@@ -44,7 +44,6 @@
 <section>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luann8&theme=radical) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luann8&theme=radical) |
-| :-: | :-: | 
  
 <br>
 
