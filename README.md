@@ -46,13 +46,13 @@
 </div>
 
   <div align="center" style="margin-bottom:100px">
-    <h1>📊 GitHub status:</h1>
+   📊 GitHub status:
 <section>
 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode==weekly&hide_border=true&layout=compact) |  
 | :-: | :-: |
    
-  <h1>📈 GitHub Activity Graph:</h1>
+  📈 GitHub Activity Graph:
 
 | <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c" alt="GitHub Activity Graph">|
 | :-: | 
