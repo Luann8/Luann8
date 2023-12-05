@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29%0A%0AOLÁ,+eu+sou+Luann8+👨‍💻;Sou+um+Engenheiro+de+Software+e+Entusiasta+de+Ciência+de+Dados!;Bem-vindo!+:%29%0A%0A¡HOLA,+soy+Luann8+👨‍💻;Soy+un+Ingeniero+de+Software+y+Entusiasta+de+Ciencia+de+Datos!;¡Bienvenido!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
 
 ##
