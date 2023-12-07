@@ -20,10 +20,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,php,postgresql,django,json)](https://skillicons.dev)
 
-
-   
-   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ### Frontend Development :
 
 
@@ -35,12 +31,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,anacond,jupyter,pycharm,aws,gcp	)](https://skillicons.dev)
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
-<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
   ### 🏆 Trophies:
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
