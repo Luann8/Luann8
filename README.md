@@ -23,7 +23,7 @@
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 [![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/)
 
-[![My Skills](https://skillicons.dev/icons?i=python,php,postgresql,dhango,json)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,php,postgresql,django,json)](https://skillicons.dev)
 
 
    
