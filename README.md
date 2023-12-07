@@ -17,7 +17,7 @@
 
 ### Backend Development :
 
-[![My Skills](https://skillsicons.dev/api?icon=python,php,postgresql,django,json,javascript,react,html5,css3,vscode,jupyter,pycharm,anaconda,aws,googlecloud)](https://skillsicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
    
    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
