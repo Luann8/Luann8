@@ -33,7 +33,7 @@
 ### Data Science, Cloud & IDE :
 
 
-[![My Skills](https://skillicons.dev/icons?i=anacond,jupyter,pycharm,aws,cloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,anacond,jupyter,pycharm,aws,cloud)](https://skillicons.dev)
 
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
