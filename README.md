@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=acfcf4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=630c5b&height=120&section=header"/>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=acfcf4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=630c5b&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
 
 ##
@@ -62,7 +62,7 @@
   <div align="center" style="margin-bottom:100px">
 
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=141424&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=630c5b&height=120&section=footer"/>
 </section>
 
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
