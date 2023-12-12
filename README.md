@@ -1,16 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=header"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
-
-<div align="center">
-
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
+
+
+##
 
 <div align="center">
-</div>
   <div style="display: inline_block">
+   ⚙️ Soft skills:
   </div>
 </div>
 
@@ -45,25 +42,29 @@
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
   ### 🏆 Trophies:
-  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=gradient" />
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical" />
 </div>
 
   <div align="center" style="margin-bottom:100px">
  
     
+  📊 GitHub status:
 
 <section>
 
-<div align="center">  
-  
-<div align="center">  
-  
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode==weekly&hide_border=true&layout=compact) |  
+| :-: | :-: |
    
+  📈 GitHub Activity Graph:
 
+| <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c" alt="GitHub Activity Graph">|
+| :-: | 
+  
   </div>
   <div align="center" style="margin-bottom:100px">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer"/>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 </section>
 
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
