@@ -53,7 +53,7 @@
     
 | 📊 GitHub Status | |
 | :-: | :-: |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=gradient&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=gradient&mode=weekly&hide_border=true&layout=donut) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode=weekly&hide_border=true&layout=donut) |
 
 
    
