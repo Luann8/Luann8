@@ -42,7 +42,7 @@
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
   ### 🏆 Trophies:
-  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=juicyfresh" />
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=dracula" />
 </div>
 
   <div align="center" style="margin-bottom:100px">
@@ -52,7 +52,7 @@
 
 <section>
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true&background=0c0c14) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode=weekly&hide_border=true&layout=donut&bg_color=0c0c14) |  
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=dracula&mode=weekly&hide_border=true&background=0c0c14) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=dracula&mode=weekly&hide_border=true&layout=donut&bg_color=0c0c14) |  
 | :-: | :-: |
 
    
