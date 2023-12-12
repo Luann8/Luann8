@@ -57,7 +57,7 @@
 
 <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true&background=141424" alt="GitHub Streak" />
 
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode=weekly&hide_border=true&layout=donut&bg_color=141424" alt="Top Languages" />
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode=weekly&hide_border=true&layout=donut&bg_color=141424" alt="Top Languages" />
 
 
    
