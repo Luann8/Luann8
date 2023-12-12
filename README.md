@@ -52,7 +52,7 @@
 
 <section>
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true&background=141424) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode=weekly&hide_border=true&layout=donut&bg_color=acfcf4) |  
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true&background=141424) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode=weekly&hide_border=true&layout=donut&bg_color=141424) |  
 | :-: | :-: |
 
    
