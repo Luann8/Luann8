@@ -10,7 +10,6 @@
 
 <div align="center">
 </div>
-   ⚙️ Soft skills:
   <div style="display: inline_block">
   </div>
 </div>
@@ -52,7 +51,6 @@
   <div align="center" style="margin-bottom:100px">
  
     
-  📊 GitHub status:
 
 <section>
 
