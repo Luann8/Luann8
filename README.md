@@ -59,11 +59,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
    
-  📈 GitHub Activity Graph:
 
-| <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical&hide_border=true&bg_color=141424&color=FA438B&line=BD93F9&point=6272A4&area=true&border_color=34343c" alt="GitHub Activity Graph">|
-| :-: | 
-  
   </div>
   <div align="center" style="margin-bottom:100px">
 
