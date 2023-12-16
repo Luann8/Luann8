@@ -57,7 +57,7 @@
 | :-: | :-: |
 
 </div>
-<img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lferlr&theme=radical"/>
+<img width="97%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luann8&theme=radical"/>
 
   
   </div>
