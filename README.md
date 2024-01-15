@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#044879&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047e&height=120&section=header"/>
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#044879&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e047e&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+I'm+Luann8+👨‍💻;I'm+a+Software+Engineer+and+Data+Science+Enthusiast!;Welcome!+:%29)
 
 
 ##
@@ -83,7 +83,7 @@
 </a>
 
   ###  Trophies:
-  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true" />
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true" />
 </div>
 
   <div align="center" style="margin-bottom:100px">
@@ -94,13 +94,13 @@
     
  📊 GitHub Status
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=algolia&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=algolia&mode=weekly&hide_border=true&layout=donut) 
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode=weekly&hide_border=true&layout=donut) 
 | :-: | :-: |
   </div>
   <div align="center" style="margin-bottom:100px">
 
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#044879&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047e&height=120&section=footer"/>
 </section>
 
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
