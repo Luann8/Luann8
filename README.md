@@ -14,8 +14,11 @@
 <div align="left">
   <div style="display: inline_block">
 
-<!-- Backend Development -->
-<a href="https://www.python.org/">
+### Backend Development :
+
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<a href="http;s://www.python.org/">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
@@ -35,7 +38,8 @@
   <img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
 </a>
 
-<!-- Frontend Development -->
+### Frontend Development :
+
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </a>
@@ -52,7 +56,8 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 
-<!-- Data Science, Cloud & IDE -->
+### Data Science, Cloud & IDE :
+
 <a href="https://code.visualstudio.com/">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </a>
