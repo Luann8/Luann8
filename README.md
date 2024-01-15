@@ -16,7 +16,7 @@
 
 ### Backend Development :
 
-  <img src="[https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png](https://brers.github.io/dio.me-bootcamps/github-pages/img/05.png)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://brers.github.io/dio.me-bootcamps/github-pages/img/05.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <a href="https://www.python.org/">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
