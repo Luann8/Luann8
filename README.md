@@ -103,4 +103,9 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047e&height=120&section=footer"/>
 </section>
 
+&nbsp;<div align="center">
+  [![Spotify]([https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff](https://deezer.page.link/eyQjycA4hKSjkyr57))](https://open.spotify.com/user/omnitenebris)
+</div>
+
+
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
