@@ -103,12 +103,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047e&height=120&section=footer"/>
 </section>
 
-<p align="center">
-  <a href="https://deezer.page.link/eyQjycA4hKSjkyr57">
-    <img src="INSIRA_URL_DA_IMAGEM" alt="Minha Lista de Reprodução no Deezer">
-  </a>
-</p>
-
+<iframe title="deezer-widget" src="https://widget.deezer.com/widget/dark/album/41487401?tracklist=false" width="270" height="150" frameborder="0" allowtransparency="true" allow="encrypted-media; clipboard-write"></iframe>
 
 
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
