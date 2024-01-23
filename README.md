@@ -103,9 +103,11 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047e&height=120&section=footer"/>
 </section>
 
-<div align="center">
-  <a href="https://deezer.page.link/eyQjycA4hKSjkyr57">Minha Lista de Reprodução no Deezer</a>
-</div>
+<p align="center">
+  <a href="https://deezer.page.link/eyQjycA4hKSjkyr57">
+    <img src="INSIRA_URL_DA_IMAGEM" alt="Minha Lista de Reprodução no Deezer">
+  </a>
+</p>
 
 
 
