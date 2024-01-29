@@ -59,7 +59,7 @@
   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 
- ### stunding
+ ### Studyng
 
 <a href="https://www.docker.com/">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white">
