@@ -27,7 +27,9 @@
 </a>
 
 <a href="https://www.postgresql.org/">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-004d00?style=for-the-badge&labelColor=336791&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iNSIgcj0iNSIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc=&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-004d00?style=for-the-badge&labelColor=336791&logo=data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23ffffff' class='bi bi-table' viewBox='0 0 16 16'%3E%3Cpath d='M0 13v1a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-1H0zm15-3v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-2h14zM0 3h1V2a1 1 0 0 1 1-1h1V0h2v1h8V0h2v1h1a1 1 0 0 1 1 1v1h-1V2H2v1h1v1H1a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H0V3z'/%3E%3C/svg%3E">
+</img>
+
 
 </a>
 
