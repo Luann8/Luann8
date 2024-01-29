@@ -27,7 +27,7 @@
 </a>
 
 <a href="https://www.postgresql.org/">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white">
+<img alt="SQL" src="https://img.shields.io/badge/SQL-004d00?style=for-the-badge&labelColor=336791&logoColor=white">
 </a>
 
 <a href="https://www.djangoproject.com/">
