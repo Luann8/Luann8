@@ -28,6 +28,7 @@
 
 <a href="https://www.postgresql.org/">
 <img alt="SQL" src="https://img.shields.io/badge/SQL-004d00?style=for-the-badge&labelColor=336791&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMCIgaGVpZ2h0PSIxMCIgdmlld0JveD0iMCAwIDEwIDEwIj4KICA8Y2lyY2xlIGN4PSI1IiBjeT0iNSIgcj0iNSIgc3R5bGU9ImZpbGw6cmVkOyIgLz4KPC9zdmc=&logoColor=white">
+
 </a>
 
 <a href="https://www.djangoproject.com/">
