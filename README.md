@@ -34,6 +34,10 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </a>
 
+<a href="https://github.com/seu-usuario/seu-repositorio">
+  <img src="https://img.shields.io/badge/Vers%C3%A3o-1.0.0-blue.svg" alt="Versão">
+</a>
+
 ### Frontend Development :
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
