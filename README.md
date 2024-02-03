@@ -34,8 +34,8 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </a>
 
-<a href="https://github.com/E344F26">
-  <img alt="GitHub" src="https://camo.githubusercontent.com/a1efd1869734f500d3be2da95765171cbeb99994fef8fb7aac91d7eab635175a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334437443543362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d23453334463236">
+<a href="https://github.com/">
+  <img alt="GitHub" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
 ### Frontend Development :
