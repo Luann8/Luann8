@@ -26,7 +26,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </a>
 
-<a href="#">
+<a href="https://luann8.github.io/Database-Technologies/">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sql&logoColor=white">
 </a>
 
