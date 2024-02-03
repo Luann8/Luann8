@@ -34,10 +34,6 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </a>
 
-<a href="https://www.json.org/">
-  <img alt="Json" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-</a>
-
 ### Frontend Development :
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
