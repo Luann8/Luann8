@@ -59,7 +59,7 @@
 </a>
 
 <a href="https://www.kali.org/">
-  <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img alt="Kali" src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=black">
 </a>
 
 <a href="https://www.cplusplus.com/">
