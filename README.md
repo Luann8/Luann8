@@ -13,7 +13,6 @@
 
 <div align="left">
   <div style="display: inline_block">
-
 ### Backend Development :
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -73,7 +72,7 @@
 <a href="https://www.lua.org/">
   <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 </a>
-
+  
   ###  Trophies:
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true" />
 </div>
