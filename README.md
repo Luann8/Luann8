@@ -98,7 +98,7 @@
 
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 
-<br>
+<p></p>
 
 <a href="https://deezer.page.link/3ZRrYtKVGAZSKX6eA/">
   <img alt="music" src="https://img.shields.io/badge/Machinehead-540c5c?style=for-the-badge&logo=apple-music&logoColor=white">
