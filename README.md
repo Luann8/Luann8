@@ -23,7 +23,7 @@
 </a>
 
 <a href="https://www.php.net/">
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </a>
 
 <a href="https://luann8.github.io/Database-Technologies/">
