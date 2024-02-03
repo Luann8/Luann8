@@ -26,11 +26,9 @@
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
 </a>
 
-<a href="https://www.postgresql.org/">
-<img alt="SQL" src="https://img.shields.io/badge/SQL-004d00?style=for-the-badge&labelColor=336791&logo=data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' fill='%23ffffff' class='bi bi-table' viewBox='0 0 16 16'%3E%3Cpath d='M0 13v1a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1v-1H0zm15-3v2a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-2h14zM0 3h1V2a1 1 0 0 1 1-1h1V0h2v1h8V0h2v1h1a1 1 0 0 1 1 1v1h-1V2H2v1h1v1H1a1 1 0 0 0-1 1v10a1 1 0 0 0 1 1h14a1 1 0 0 0 1-1V5a1 1 0 0 0-1-1H0V3z'/%3E%3C/svg%3E">
+<a href="https://www.mysql.com/">
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&labelColor=4479A1&logo=mysql&logoColor=white">
 </img>
-
-
 </a>
 
 <a href="https://www.djangoproject.com/">
