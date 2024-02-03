@@ -45,7 +45,7 @@
 </a>
 
 <a href="https://reactjs.org/">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
