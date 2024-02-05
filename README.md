@@ -26,7 +26,7 @@
 </a>
 
 <a href="https://luann8.github.io/Database-Technologies/">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-540c5c.svg?style=for-the-badge&logo=sql&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-540c5c.svg?style=for-the-badge&logo=scala&logoColor=white">
 </a>
 
 <a href="https://www.djangoproject.com/">
