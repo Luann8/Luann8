@@ -37,6 +37,10 @@
   <img alt="Git" src="https://img.shields.io/badge/GIT-540c5c?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
+<a href="https://www.json.org/">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-540c5c?style=for-the-badge&logo=json&logoColor=white">
+</a>
+
 ### Frontend Development :
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
