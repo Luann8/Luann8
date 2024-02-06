@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047eheight=120&section=header"/>
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=540c5c&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering;And+Ethical+Hacker👨🏻‍💻;Welcome!+:%29)
 
