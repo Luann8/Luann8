@@ -74,7 +74,7 @@
 </a>
 
 <a href="https://www.rust-lang.org/">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-540c5c?style=for-the-badge&logo=rust&logoColor=white">
 </a>
 
 <a href="https://www.lua.org/">
