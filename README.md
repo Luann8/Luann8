@@ -73,8 +73,8 @@
   <img alt="Kali" src="https://img.shields.io/badge/Kali-540c5c?style=for-the-badge&logo=kalilinux&logoColor=white">
 </a>
 
-<a href="https://www.cplusplus.com/">
-  <img alt="C++" src="https://img.shields.io/badge/C++-540c5c?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<a href="https://www.rust-lang.org/">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
 </a>
 
 <a href="https://www.lua.org/">
