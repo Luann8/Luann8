@@ -98,7 +98,6 @@
 | :-: | :-: |
 
 [![Luann8's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Luann8&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
   
   </div>
   <div align="center" style="margin-bottom:100px">
