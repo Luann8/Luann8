@@ -96,9 +96,6 @@
 
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=radical&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=radical&mode=weekly&hide_border=true&layout=compact) |
 | :-: | :-: |
-
-[![Your_WakaTime_Username's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Your_WakaTime_Username&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
   
   </div>
   <div align="center" style="margin-bottom:100px">
