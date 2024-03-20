@@ -77,8 +77,8 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-540c5c?style=for-the-badge&logo=rust&logoColor=white">
 </a>
 
-<a href="https://www.lua.org/">
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-540c5c?style=for-the-badge&logo=lua&logoColor=white">
+<a href="https://golang.org/">
+  <img alt="Go" src="https://img.shields.io/badge/Go-540c5c?style=for-the-badge&logo=go&logoColor=white">
 </a>
 
   ###  Trophies:
