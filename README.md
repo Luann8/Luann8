@@ -41,10 +41,6 @@
   <img alt="JSON" src="https://img.shields.io/badge/JSON-540c5c?style=for-the-badge&logo=json&logoColor=white">
 </a>
 
-<a href="https://learn.microsoft.com/pt-br/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.4/">
- <img alt="Powershell" src="https://img.shields.io/badge/PowerShell-540c5c.svg?style=for-the-badge&logo=powershell&logoColor=white">
-</a>
-
 ### Frontend Development :
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
