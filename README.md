@@ -10,12 +10,12 @@
   </div>
 </div>
 
+
+### Backend Development :
 <div align="left">
   <div style="display: inline_block">
 
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-### Backend Development :
 
 <a href="https://www.python.org/">
   <img alt="Python" src="https://img.shields.io/badge/python-540c5c?style=for-the-badge&logo=python&logoColor=white">
