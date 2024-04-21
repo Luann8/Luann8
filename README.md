@@ -43,10 +43,6 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-540c5c?style=for-the-badge&logo=javascript&logoColor=white">
 </a>
 
-<a href="https://reactjs.org/">
-  <img alt="React" src="https://img.shields.io/badge/react-540c5c.svg?style=for-the-badge&logo=react&logoColor=white">
-</a>
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-540c5c?style=for-the-badge&logo=html5&logoColor=white">
 </a>
