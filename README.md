@@ -29,10 +29,6 @@
   <img alt="SQL" src="https://img.shields.io/badge/SQL-540c5c.svg?style=for-the-badge&logo=scala&logoColor=white">
 </a>
 
-<a href="https://www.djangoproject.com/">
-  <img alt="Django" src="https://img.shields.io/badge/Django-540c5c?style=for-the-badge&logo=django&logoColor=white">
-</a>
-
 <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git">
   <img alt="Git" src="https://img.shields.io/badge/GIT-540c5c?style=for-the-badge&logo=git&logoColor=white">
 </a>
