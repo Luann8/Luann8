@@ -1,20 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047e&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=540c5c&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8+💜;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29)
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
-<hr />
-<a href="https://github.com/strongreen" target="_blank">
-  <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a><br />
-<p align="left" > 
-  <b>Faaallaaa Makers!</b>
-</p>
-<a href="https://www.instagram.com/strongreen/" target="_blank">
-  <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a><br />
-<p align="left" >
-Me chamo <b> Hérika Ströngreen</b>.
-</p>
+
 ##
 
 <div align="center">
