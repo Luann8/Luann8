@@ -1,3 +1,6 @@
+<div align="center" style="margin-bottom:100px; background-color: #0d1117;">
+
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0067A3&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29)
@@ -64,3 +67,4 @@
 <a href="https://deezer.page.link/3ZRrYtKVGAZSKX6eA/">
   <img alt="music" src="https://img.shields.io/badge/Machinehead-0067A3?style=for-the-badge&logo=apple-music&logoColor=white">
 </a>
+</div>
