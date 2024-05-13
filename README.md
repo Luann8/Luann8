@@ -33,7 +33,9 @@
 
 ### Frontend Development :
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-04acfc?style=for-the-badge&logo=javascript&logoColor=white">
+</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-04acfc?style=for-the-badge&logo=html5&logoColor=white">
@@ -60,7 +62,6 @@
 <a href="https://golang.org/">
   <img alt="Go" src="https://img.shields.io/badge/Go-04acfc?style=for-the-badge&logo=go&logoColor=white">
 </a>
-
 
   ###  Trophies:
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true" />
