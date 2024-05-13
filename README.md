@@ -46,7 +46,8 @@
 
 ### 📊 GitHub Status
 
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=algolia&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=algolia&mode=weekly&hide_border=true&layout=donut&langs_count=5) |
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 | :-: | :-: |
   
   ###  Trophies:
