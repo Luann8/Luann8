@@ -17,21 +17,6 @@
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![JSON](https://img.shields.io/badge/-/JSON-0D1117?style=for-the-badge&logo=json&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-
-
-](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/main/README.md?plain=1)
-<a href="https://luann8.github.io/Database-Technologies/">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-04acfc?style=for-the-badge&logo=scala&logoColor=white">
-</a>
-
-<a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git">
-  <img alt="Git" src="https://img.shields.io/badge/GIT-04acfc?style=for-the-badge&logo=git&logoColor=white">
-</a>
-
-<a href="https://www.json.org/">
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-04acfc?style=for-the-badge&logo=json&logoColor=white">
-</a>
-
 ### Frontend Development :
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
