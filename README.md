@@ -12,7 +12,7 @@
 
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
 ](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/main/README.md?plain=1)
@@ -49,9 +49,8 @@
   <img alt="Rust" src="https://img.shields.io/badge/Rust-04acfc?style=for-the-badge&logo=rust&logoColor=white">
 </a>
 
-<a href="https://golang.org/">
-  <img alt="Go" src="https://img.shields.io/badge/Go-04acfc?style=for-the-badge&logo=go&logoColor=white">
-</a>
+![GO](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 
   ###  Trophies:
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true" />
