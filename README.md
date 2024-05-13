@@ -69,7 +69,7 @@
 </a>
 
   ###  Trophies:
-  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true" />
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true" />
 </div>
 
   <div align="center" style="margin-bottom:100px">
