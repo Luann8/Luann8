@@ -1,5 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=04b0cc&height=120&section=header"/>
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29)
 
 ##
 
@@ -9,7 +10,6 @@
   </div>
 </div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29)
 
   <img src="https://freepngimg.com/download/technology/32333-4-technology-transparent.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
