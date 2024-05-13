@@ -88,7 +88,7 @@
   <div align="center" style="margin-bottom:100px">
 
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7e047e&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=51c3cf&height=120&section=footer"/>
 </section>
 
 
@@ -97,5 +97,5 @@
 <p></p>
 
 <a href="https://deezer.page.link/3ZRrYtKVGAZSKX6eA/">
-  <img alt="music" src="https://img.shields.io/badge/Machinehead-540c5c?style=for-the-badge&logo=apple-music&logoColor=white">
+  <img alt="music" src="https://img.shields.io/badge/Machinehead-51c3cf?style=for-the-badge&logo=apple-music&logoColor=white">
 </a>
