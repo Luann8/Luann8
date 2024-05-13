@@ -26,13 +26,13 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
  ### Focusing :
+  <img src="https://freepngimg.com/download/technology/32333-4-technology-transparent.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Kali](https://img.shields.io/badge/-Kali-0D1117?style=for-the-badge&logo=Kalilinux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-  <img src="https://freepngimg.com/download/technology/32333-4-technology-transparent.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
   ###  Trophies:
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true" />
