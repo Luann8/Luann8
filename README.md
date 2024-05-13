@@ -97,5 +97,5 @@
 <p></p>
 
 <a href="https://deezer.page.link/3ZRrYtKVGAZSKX6eA/">
-  <img alt="music" src="https://img.shields.io/badge/Machinehead-04acfc?style=for-the-badge&logo=apple-music&logoColor=white">
+  <img alt="music" src="https://img.shields.io/badge/Machinehead-04b0cc?style=for-the-badge&logo=apple-music&logoColor=white">
 </a>
