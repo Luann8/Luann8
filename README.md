@@ -10,6 +10,7 @@
   </div>
 </div>
 
+
 <a href="https://www.python.org/">
   <img alt="Python" src="https://img.shields.io/badge/python-04acfc?style=for-the-badge&logo=python&logoColor=white">
 </a>
@@ -33,7 +34,7 @@
 ### Frontend Development :
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-04acfc?style=for-the-badge&logo=javascript&logoColor=white">
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
