@@ -11,9 +11,7 @@
 </div>
 
 
-<a href="https://www.python.org/">
-  <img alt="Python" src="https://img.shields.io/badge/python-04acfc?style=for-the-badge&logo=python&logoColor=white">
-</a>
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <a href="https://www.php.net/">
   <img alt="PHP" src="https://img.shields.io/badge/php-04acfc?style=for-the-badge&logo=php&logoColor=white">
