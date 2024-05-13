@@ -52,7 +52,7 @@
 
 ![GO](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
