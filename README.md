@@ -17,7 +17,7 @@
   <img src="https://freepngimg.com/download/technology/32333-4-technology-transparent.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <a href="https://www.python.org/">
-  <img alt="Python" src="https://img.shields.io/badge/python-548cac?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/python-04b0cc?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
 <a href="https://www.php.net/">
