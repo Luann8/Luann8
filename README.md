@@ -9,7 +9,7 @@
   </div>
 </div>
 
-  <img src="https://freepngimg.com/download/technology/32333-4-technology-transparent.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29)
 
 
 ### Back end :
@@ -32,7 +32,7 @@
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
 ![GO](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29)
+  <img src="https://freepngimg.com/download/technology/32333-4-technology-transparent.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
   ###  Trophies:
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true" />
