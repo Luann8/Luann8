@@ -17,55 +17,55 @@
   <img src="https://freepngimg.com/download/technology/32333-4-technology-transparent.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <a href="https://www.python.org/">
-  <img alt="Python" src="https://img.shields.io/badge/python-04acfc?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/python-#04b0cc?style=for-the-badge&logo=python&logoColor=white">
 </a>
 
 <a href="https://www.php.net/">
-  <img alt="PHP" src="https://img.shields.io/badge/php-04acfc.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/php-04b0cc.svg?style=for-the-badge&logo=php&logoColor=white">
 </a>
 
 <a href="https://luann8.github.io/Database-Technologies/">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-04acfc.svg?style=for-the-badge&logo=scala&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-04b0cc.svg?style=for-the-badge&logo=scala&logoColor=white">
 </a>
 
 <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git">
-  <img alt="Git" src="https://img.shields.io/badge/GIT-04acfc?style=for-the-badge&logo=git&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/GIT-04b0cc?style=for-the-badge&logo=git&logoColor=white">
 </a>
 
 <a href="https://www.json.org/">
-  <img alt="JSON" src="https://img.shields.io/badge/JSON-04acfc?style=for-the-badge&logo=json&logoColor=white">
+  <img alt="JSON" src="https://img.shields.io/badge/JSON-04b0cc?style=for-the-badge&logo=json&logoColor=white">
 </a>
 
 ### Frontend Development :
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-04acfc?style=for-the-badge&logo=javascript&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-04b0cc?style=for-the-badge&logo=javascript&logoColor=white">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML5-04acfc?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-04b0cc?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img alt="CSS" src="https://img.shields.io/badge/CSS3-04acfc?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-04b0cc?style=for-the-badge&logo=css3&logoColor=white">
 </a>
 
  ### Focusing :
 
 <a href="https://www.docker.com/">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-04acfc?style=for-the-badge&logo=docker&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-04b0cc?style=for-the-badge&logo=docker&logoColor=white">
 </a>
 
 <a href="https://www.kali.org/">
-  <img alt="Kali" src="https://img.shields.io/badge/Kali-04acfc?style=for-the-badge&logo=kalilinux&logoColor=white">
+  <img alt="Kali" src="https://img.shields.io/badge/Kali-04b0cc?style=for-the-badge&logo=kalilinux&logoColor=white">
 </a>
 
 <a href="https://www.rust-lang.org/">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-04acfc?style=for-the-badge&logo=rust&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-04b0cc?style=for-the-badge&logo=rust&logoColor=white">
 </a>
 
 <a href="https://golang.org/">
-  <img alt="Go" src="https://img.shields.io/badge/Go-04acfc?style=for-the-badge&logo=go&logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-04b0cc?style=for-the-badge&logo=go&logoColor=white">
 </a>
 
   ###  Trophies:
