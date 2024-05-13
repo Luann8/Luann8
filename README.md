@@ -42,7 +42,7 @@
 
 
 
-<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=dark" alt="Luann8's github stats" /> 
+<img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=dark&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" alt="Luann8's github stats" /> 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
   
