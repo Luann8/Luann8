@@ -33,9 +33,7 @@
 
 ### Frontend Development :
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-</a>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-04acfc?style=for-the-badge&logo=html5&logoColor=white">
