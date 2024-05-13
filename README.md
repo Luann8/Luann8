@@ -37,19 +37,6 @@
 
  ### Focusing :
 
-<a href="https://www.docker.com/">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-04acfc?style=for-the-badge&logo=docker&logoColor=white">
-</a>
-
-<a href="https://www.kali.org/">
-  <img alt="Kali" src="https://img.shields.io/badge/Kali-04acfc?style=for-the-badge&logo=kalilinux&logoColor=white">
-</a>
-
-<a href="https://www.rust-lang.org/">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-04acfc?style=for-the-badge&logo=rust&logoColor=white">
-</a>
-
-
 ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Kali](https://img.shields.io/badge/-Kali-0D1117?style=for-the-badge&logo=Kalilinux&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Rust](https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117)&nbsp;
