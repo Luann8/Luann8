@@ -13,6 +13,10 @@
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=scala&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![JSON](https://img.shields.io/badge/-/JSON-0D1117?style=for-the-badge&logo=json&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
 
 
 ](https://github.com/MatheusAlvarez/MatheusAlvarez/blob/main/README.md?plain=1)
