@@ -36,11 +36,6 @@
 ![GO](https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 
-  ###  Trophies:
-</div>
-  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true" />
-
-  <div align="center" style="margin-bottom:100px">
 
 
 <section>
@@ -52,6 +47,11 @@
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Luann8&theme=algolia&mode=weekly&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&theme=algolia&mode=weekly&hide_border=true&layout=donut&langs_count=5) |
 | :-: | :-: |
   
+  ###  Trophies:
+</div>
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true" />
+
+  <div align="center" style="margin-bottom:100px">
   </div>
   <div align="center" style="margin-bottom:100px">
 
