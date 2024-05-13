@@ -15,11 +15,11 @@
 </a>
 
 <a href="https://www.php.net/">
-  <img alt="PHP" src="https://img.shields.io/badge/php-04acfc.svg?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/php-04acfc?style=for-the-badge&logo=php&logoColor=white">
 </a>
 
 <a href="https://luann8.github.io/Database-Technologies/">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-04acfc.svg?style=for-the-badge&logo=scala&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-04acfc?style=for-the-badge&logo=scala&logoColor=white">
 </a>
 
 <a href="https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-O-B%C3%A1sico-do-Git">
