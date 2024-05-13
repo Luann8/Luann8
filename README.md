@@ -42,7 +42,7 @@
 
 
 <img src="https://streak-stats.demolab.com?user=Luann8&theme=windows-dark&hide_border=true&background=EB4A1500&text=00bfbf&icon=00bfbf" alt="GitHub Streak" />
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=true&title_color=04a1e8&text_color=00bfbf&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=true&title_color=0067A3&text_color=0067A3&bg_color=0d1117" />
 
   
   ###  Trophies:
