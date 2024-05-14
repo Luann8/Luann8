@@ -48,7 +48,7 @@
   
   ###  Trophies:
 </div>
-  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true&bg_color=0d1117" />
+  <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=algolia&no-frame=true&background=0d1117" />
 
   </div>
   <div align="center" style="margin-bottom:100px">
