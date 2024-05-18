@@ -41,7 +41,7 @@
   <div align="center" style="margin-bottom:100px">
 
 
-<imh width="41%" height="195px" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luann8&theme=windows-dark&hide_border=true&background=0D1117" alt="GitHub Streak" /></a>
+<imh width="41%" height="195px" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luann8&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" /></a>
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&title_color=800080&text_color=800080&bg_color=0d1117" />
 
   
