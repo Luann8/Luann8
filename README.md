@@ -68,6 +68,6 @@
   <img alt="Portifolio" src="https://img.shields.io/badge/Portifolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white">
   
   <a href="https://luann8.github.io/Links-Personal/">
-  <img alt="music" src="https://img.shields.io/badge/Link-Tree-800080?style=for-the-badge&logo=linktree&logoColor=white">
+  <img alt="music" src="https://img.shields.io/badge/linktree-800080?style=for-the-badge&logo=linktree&logoColor=white">
   
 </a>
