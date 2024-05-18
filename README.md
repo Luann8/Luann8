@@ -41,8 +41,8 @@
   <div align="center" style="margin-bottom:100px">
 
 
-<imh width="41%" height="195px" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luann8&theme=radical&hide_border=true&" alt="GitHub Streak" /></a>
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&theme=radical" />
+<imh width="55%" height="195px" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luann8&theme=radical&hide_border=true&" alt="GitHub Streak" /></a>
+<img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&theme=radical" />
 
   
   ###  Trophies:
