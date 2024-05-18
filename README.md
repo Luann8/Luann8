@@ -1,7 +1,6 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=header"/>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0067A3&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29)
 
 ##
 
@@ -43,7 +42,7 @@
 
 
 <imh width="41%" height="195px" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Luann8&theme=windows-dark&hide_border=true&background=0D1117" alt="GitHub Streak" /></a>
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&title_color=04acfc&text_color=04acfc&bg_color=0d1117" />
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&title_color=800080&text_color=800080&bg_color=0d1117" />
 
   
   ###  Trophies:
@@ -54,7 +53,7 @@
   <div align="center" style="margin-bottom:100px">
 
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 </section>
 
 
@@ -63,5 +62,5 @@
 <p></p>
 
 <a href="https://deezer.page.link/3ZRrYtKVGAZSKX6eA/">
-  <img alt="music" src="https://img.shields.io/badge/Machinehead-0067A3?style=for-the-badge&logo=apple-music&logoColor=white">
+  <img alt="music" src="https://img.shields.io/badge/Machinehead-800080?style=for-the-badge&logo=apple-music&logoColor=white">
 </a>
