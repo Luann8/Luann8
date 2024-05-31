@@ -50,14 +50,12 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&theme=radical" alt="Top Languages" />
 </div>
 
-
-
-<!-- Snake Animation -->
-<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
 <h2 align="center">Tropheus</h2>
 
 <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
+
+<!-- Snake Animation -->
+<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 <!-- Links Section -->
 <h2 align="center">Find me on</h2>
@@ -69,9 +67,6 @@
     <img alt="Linktree" src="https://img.shields.io/badge/linktree-800080?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 
 <!-- PHP Code -->
 ```php
@@ -93,3 +88,7 @@ if (isset($argv[0]) && realpath($argv[0]) === __FILE__) {
 }
 
 ?>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
+
