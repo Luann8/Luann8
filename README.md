@@ -73,20 +73,11 @@
 <?php
 
 class Programmer {
-    public $name = "Luann Pereira Mendes";
-    public $languages = ["Portugues", "English", "Spanish"];
-    public $location = "Rio de Janeiro, Brazil";
+ $name = "Luann Pereira Mendes";
+ $languages = ["Portugues", "English", "Spanish"];
+ $location = "Rio de Janeiro, Brazil";
 
-    public function __toString() {
-        return $this->name;
     }
-}
-
-if (isset($argv[0]) && realpath($argv[0]) === __FILE__) {
-    $me = new Programmer();
-    echo $me;
-}
-
 ?>
 ```
 
