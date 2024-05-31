@@ -19,20 +19,13 @@
 <div align="center">
   <!-- Backend Skills -->
   <h3>Backend Development</h3>
-  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117" alt="Python" />
-  <img src="https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=1572B6&labelColor=0D1117" alt="C#" />
-  <img src="https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=scala&logoColor=A9A9A9&labelColor=0D1117" alt="SQL" />
-  <img src="https://img.shields.io/badge/-JSON-0D1117?style=for-the-badge&logo=json&logoColor=A9A9A9&labelColor=0D1117" alt="JSON" />
-  <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" alt="Git" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
   <!-- Frontend Skills -->
   <h3>Frontend Development</h3>
-  <img src="https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS" />
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma" />
-  <img src="https://img.shields.io/badge/Angular-0D1117?style=for-the-badge&logo=angular&logoColor=DD0031&labelColor=0D1117" alt="Angular" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react)](https://skillicons.dev)
+
 
   <!-- Focus Areas -->
   <h3>Focus Areas</h3>
