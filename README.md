@@ -52,10 +52,6 @@
 </div>
   <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" />
 
-  </div>
-  <div align="center" style="margin-bottom:100px">
-
-
 
 ```php 
 
@@ -78,6 +74,13 @@ if (isset($argv[0]) && realpath($argv[0]) === __FILE__) {
 
 ?>
 ```
+
+
+  </div>
+  <div align="center" style="margin-bottom:100px">
+
+
+
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 </section>
