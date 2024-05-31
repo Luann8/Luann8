@@ -49,6 +49,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luann8&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
+<h2>Trophys</h2>
+
 <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 
 <!-- Snake Animation -->
@@ -67,24 +69,3 @@
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
-
-<!-- PHP Code -->
-```php
-<?php
-
-class Programmer {
-    public $name = "Luann Pereira Mendes";
-    public $languages = ["Portugues", "English", "Spanish"];
-    public $location = "Rio de Janeiro, Brazil";
-
-    public function __toString() {
-        return $this->name;
-    }
-}
-
-if (isset($argv[0]) && realpath($argv[0]) === __FILE__) {
-    $me = new Programmer();
-    echo $me;
-}
-
-?>
