@@ -38,7 +38,7 @@
   <h3>Focus Areas</h3>
   <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=kali" alt="kali" />
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
   <img src="https://skillicons.dev/icons?i=go" alt="Golang" />
 </div>
