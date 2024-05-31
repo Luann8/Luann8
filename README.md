@@ -47,7 +47,7 @@
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats-salesp07.vercel.app/api?username=luann8&count_private=true&show_icons=true&theme=black-blue&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luann8&layout=compact&theme=black-blue" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luann8&layout=compact&theme=windows-dark" alt="Top Langs" />
 </div>
 
 <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
