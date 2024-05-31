@@ -61,34 +61,26 @@
 </p>
 <p align="center">Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and I have a keen interest in Ethical Hacking. Welcome to my GitHub profile!</p>
 
-<!-- Skills Section -->
 <h2 align="center">Skills</h2>
 
 <div align="center">
-  <!-- Backend Skills -->
+
   <h3>Backend Development</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 
-  <!-- Frontend Skills -->
   <h3>Frontend Development</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react)](https://skillicons.dev)
 
-
-  <!-- Focus Areas -->
-  <h3>Focus Areas</h3>
-  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117" alt=".NET" />
-  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kali-0D1117?style=for-the-badge&logo=Kalilinux&logoColor=1572B6&labelColor=0D1117" alt="Kali" />
-  <img src="https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117&logoColor=F48D42" alt="Rust" />
-  <img src="https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117" alt="Golang" />
-</div>
 
 <!-- Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-Luann8.vercel.app/?user=Luann8&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Luann8.vercel.app/api?username=Luann8&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 
