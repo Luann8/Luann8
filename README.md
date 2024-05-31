@@ -67,6 +67,8 @@ if (isset($argv[0]) && realpath($argv[0]) === __FILE__) {
 }
 
 ?>
+```
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 <p align="center">
