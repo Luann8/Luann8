@@ -44,38 +44,7 @@
 </div>
 
 <!-- Stats Section -->
-<h2 align="center">GitHub Stats</h2>
-<div align="center">
-  <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29" alt="Typing SVG" />
-</p>
-
-<!-- About Me Section -->
-<h2 align="center">About Me</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
-</p>
-<p align="center">Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and I have a keen interest in Ethical Hacking. Welcome to my GitHub profile!</p>
-
-<h2 align="center">Skills</h2>
-
-<div align="center">
-
-  <h3>Backend Development</h3>
-
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-
-  <h3>Frontend Development</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react)](https://skillicons.dev)
-
-
-<!-- Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
 <div align="center">
