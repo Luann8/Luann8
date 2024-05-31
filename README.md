@@ -130,38 +130,5 @@ if (isset($argv[0]) && realpath($argv[0]) === __FILE__) {
 
 ?>
 
-</div>
-
-<h2 align="center">Tropheus</h2>
-
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
-
-<!-- Snake Animation -->
-<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-
-<!-- Links Section -->
-<h2 align="center">Find me on</h2>
-<p align="center">
-  <a href="https://luann8.github.io/Luann-portifolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
-  </a>
-  <a href="https://luann8.github.io/Links-Personal/">
-    <img alt="Linktree" src="https://img.shields.io/badge/linktree-800080?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-</p>
-
-<!-- PHP Code -->
-```php
-<?php
-
-class Programmer {
- $name = "Luann Pereira Mendes";
- $languages = ["Portugues", "English", "Spanish"];
- $location = "Rio de Janeiro, Brazil";
-
-    }
-?>
-```
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 
