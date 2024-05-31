@@ -50,12 +50,14 @@
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&theme=radical" alt="Top Languages" />
 </div>
 
-<h2 align="center">Tropheus</h2>
 
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 
 <!-- Snake Animation -->
 <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<h2 align="center">Tropheus</h2>
+
+<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 
 <!-- Links Section -->
 <h2 align="center">Find me on</h2>
