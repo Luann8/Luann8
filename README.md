@@ -49,6 +49,9 @@
   <img width="55%" src="https://streak-stats.demolab.com?user=Luann8&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&theme=radical" alt="Top Languages" />
 </div>
+
+<h2 align="center">Tropheus</h2>
+
 <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 
 <!-- Snake Animation -->
