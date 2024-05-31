@@ -47,7 +47,7 @@
 <div>
   <img width="55%" src="https://git.io/streak-stats" />
   <img src="https://streak-stats.demolab.com?user=Luann8&theme=radical&hide_border=true&" alt="GitHub Streak" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&theme=radical" />
+  <src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=donut&hide_border=True&theme=radical" />
 </div>
 
 ```php 
