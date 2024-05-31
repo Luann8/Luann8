@@ -19,21 +19,28 @@
 <div align="center">
   <!-- Backend Skills -->
   <h3>Backend Development</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=sql" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=json" alt="JSON" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
 
   <!-- Frontend Skills -->
   <h3>Frontend Development</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,react)](https://skillicons.dev)
-
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
 
   <!-- Focus Areas -->
   <h3>Focus Areas</h3>
-  <img src="https://img.shields.io/badge/.NET-0D1117?style=for-the-badge&logo=dotnet&logoColor=512BD4&labelColor=0D1117" alt=".NET" />
-  <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=1572B6&labelColor=0D1117" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kali-0D1117?style=for-the-badge&logo=Kalilinux&logoColor=1572B6&labelColor=0D1117" alt="Kali" />
-  <img src="https://img.shields.io/badge/-Rust-0D1117?style=for-the-badge&logo=rust&labelColor=0D1117&logoColor=F48D42" alt="Rust" />
-  <img src="https://img.shields.io/badge/-Golang-0D1117?style=for-the-badge&logo=go&logoColor=1572B6&labelColor=0D1117" alt="Golang" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
+  <img src="https://skillicons.dev/icons?i=go" alt="Golang" />
 </div>
 
 <!-- Stats Section -->
