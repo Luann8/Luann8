@@ -43,11 +43,10 @@
   <img src="https://skillicons.dev/icons?i=go" alt="Golang" />
 </div>
 
-<!-- Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=luann8&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luann8&layout=compact&theme=radical" alt="Top Langs" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=luann8&count_private=true&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="readme stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luann8&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </div>
 
 <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
