@@ -56,6 +56,26 @@
   <div align="center" style="margin-bottom:100px">
 
 
+'''<?php
+
+class Programmer {
+    public $name = "Luann Pereira Mendes";
+    public $languages = ["Portugues", "English", "Spanish"];
+    public $location = "Rio de Janeiro, Brazil";
+
+    public function __toString() {
+        return $this->name;
+    }
+}
+
+if (isset($argv[0]) && realpath($argv[0]) === __FILE__) {
+    $me = new Programmer();
+    echo $me;
+}
+
+?>
+'''
+
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 </section>
 
