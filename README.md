@@ -53,8 +53,6 @@
 
 <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 
-<!-- Snake Animation -->
-<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 <!-- Links Section -->
 <h2>Find me on</h2>
@@ -66,6 +64,9 @@
     <img alt="Linktree" src="https://img.shields.io/badge/linktree-800080?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
+
+<!-- Snake Animation -->
+<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
