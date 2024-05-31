@@ -7,7 +7,7 @@
 </p>
 
 <!-- About Me Section -->
-<h2 align="center">About Me</h2>
+<h2 align>About Me</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
 </p>
@@ -43,7 +43,7 @@
   <img src="https://skillicons.dev/icons?i=go" alt="Golang" />
 </div>
 
-<h2 align="center">GitHub Stats</h2>
+<h2>GitHub Stats</h2>
 <div align="center">
     <img src="https://github-readme-stats-salesp07.vercel.app/api?username=luann8&count_private=true&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="readme stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luann8&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
@@ -57,7 +57,7 @@
 <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 
 <!-- Links Section -->
-<h2 align="center">Find me on</h2>
+<h2>Find me on</h2>
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
