@@ -35,7 +35,7 @@
 
   <!-- Focus Areas -->
   <h3>Focus now</h3>
-  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=apache" alt="Apache" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=kali" alt="kali" />
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
