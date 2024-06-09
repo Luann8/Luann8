@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=kali" alt="kali" />
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
   <img src="https://skillicons.dev/icons?i=go" alt="Golang" />
+  <img src="https://skillicons.dev/icons?i=bsd" alt="BSD" />
 </div>
 
 <h2>GitHub Stats</h2>
