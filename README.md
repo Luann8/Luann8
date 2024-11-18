@@ -21,7 +21,6 @@
   <h3>Backend Development</h3>
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
@@ -37,9 +36,10 @@
   <h3>Focus now</h3>
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kali" alt="kali" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
   <img src="https://skillicons.dev/icons?i=go" alt="Golang" />
+  <img src="https://skillicons.dev/icons?i=jav" alt="Java" />
 </div>
 
 <h2>GitHub Stats</h2>
