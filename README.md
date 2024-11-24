@@ -11,7 +11,7 @@
   Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and I have a keen interest in Ethical Hacking. Welcome to my GitHub profile!
 </p>
 
-<!-- Skills Section -->
+<br>
 <div align="center">
   <p>Backend Development</p>
   <p>
