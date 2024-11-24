@@ -39,7 +39,8 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![GitHub Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=radical&langs_count=10)
+![Svelte Badge](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+
 
 
 <h2>Trophys</h2>
