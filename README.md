@@ -49,7 +49,7 @@
 </p>
 
 <!-- Links Section -->
-<h2 align="center">Find Me On</h2>
+<h1 align="center">Find Me On</h1>
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
