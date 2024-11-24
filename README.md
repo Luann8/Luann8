@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![Codewars Badge](https://www.codewars.com/users/Luann8/badges/large)
+![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical)
 
 
 <h2>Trophys</h2>
