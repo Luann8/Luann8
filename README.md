@@ -39,17 +39,6 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-<h2 id="english">🇺🇸 GitHub Trophies</h2>
-<p>Here you can see my top achievements on GitHub, including repositories created and total commits.</p>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" />
-
-<h2 id="portuguese">🇧🇷 Troféus do GitHub</h2>
-<p>Aqui estão os principais troféus do meu GitHub, incluindo repositórios criados e total de commits.</p>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" />
-
-<h2 id="spanish">🇪🇸 Trofeos de GitHub</h2>
-<p>Aquí están los principales logros de mi GitHub, incluyendo repositorios creados y commits totales.</p>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" />
 
 <h2>Trophys</h2>
 <p align="center">
