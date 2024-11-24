@@ -11,13 +11,13 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
 </p>
-<p align="center">Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and have a keen interest in Ethical Hacking. Welcome to my GitHub profile!</p>
+<p align="center">
+  Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and I have a keen interest in Ethical Hacking. Welcome to my GitHub profile!
+</p>
 
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
-
 <div align="center">
-  <!-- Backend Skills -->
   <h3>Backend Development</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
@@ -25,8 +25,7 @@
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </p>
-
-  <!-- Frontend Skills -->
+  
   <h3>Frontend Development</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
@@ -35,7 +34,6 @@
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </p>
 
-  <!-- Focus Areas -->
   <h3>Currently Focusing On</h3>
   <p>
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
