@@ -8,9 +8,6 @@
 
 <!-- About Me Section -->
 <h2 align="center">About Me</h2>
-<p align="center">
-</p>
-<p align="center">
   <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
 </p>
@@ -47,6 +44,10 @@
 
 <!-- GitHub Trophies Section -->
 <h2 align="center">GitHub Trophies</h2>
+<p>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=radical)
+</p>
+
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 </p>
