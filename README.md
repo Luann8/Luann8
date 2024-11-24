@@ -7,11 +7,11 @@
 </p>
 
 <!-- About Me Section -->
-<h2 align>About Me</h2>
+<h2 align="center">About Me</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
 </p>
-<p align="center">Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and I have a keen interest in Ethical Hacking. Welcome to my GitHub profile!</p>
+<p align="center">Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and have a keen interest in Ethical Hacking. Welcome to my GitHub profile!</p>
 
 <!-- Skills Section -->
 <h2 align="center">Skills</h2>
@@ -19,39 +19,40 @@
 <div align="center">
   <!-- Backend Skills -->
   <h3>Backend Development</h3>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <p>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  </p>
 
   <!-- Frontend Skills -->
   <h3>Frontend Development</h3>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  <p>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+  </p>
 
   <!-- Focus Areas -->
-  <h3>Focus now</h3>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-  <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <h3>Currently Focusing On</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </p>
 </div>
 
-![Code Quality](https://img.shields.io/codeclimate/maintainability/Luann8/repo-name?style=flat-square)
-
-
-
-<h2>Trophys</h2>
+<!-- GitHub Trophies Section -->
+<h2 align="center">GitHub Trophies</h2>
 <p align="center">
-<div style="text-align: center;">
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="Troféus do GitHub" />
-</div>
-
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
+</p>
 
 <!-- Links Section -->
-<h2>Find me on</h2>
+<h2 align="center">Find Me On</h2>
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
@@ -62,7 +63,9 @@
 </p>
 
 <!-- Snake Animation -->
-<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+<p align="center">
+  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
