@@ -43,7 +43,7 @@
 </div>
 
 <!-- GitHub Trophies Section -->
-<h2 align="center">GitHub Trophies</h2>
+<h2 align=>GitHub Trophies</h2>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
