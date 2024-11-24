@@ -39,10 +39,9 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-  <div style="text-align: center; margin-top: 20px;">
-        <!-- Gráfico de Contribuições -->
-        <img src="https://github-readme-map.vercel.app/api?username=Luann8&theme=radical" alt="Contributions Map">
-    </div>
+  <br/>
+  ![Contributions Map](https://github-readme-map.vercel.app/api?username=Luann8&theme=radical)
+</div>
 
 <h2>Trophys</h2>
 <p align="center">
