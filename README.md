@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=radical)
+![Yearly Contribution](https://github-readme-stats.vercel.app/api/wakatime?username=Luann8&theme=radical)
 
 
 <h2>Trophys</h2>
