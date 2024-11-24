@@ -39,9 +39,8 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luann8&theme=radical)
+![GitHub Events](https://github-profile-summary-cards.vercel.app/api/cards/events?username=Luann8&theme=radical)
 
-![Wakatime](https://wakatime.com/share/@Luann8/your_wakatime_graph_image_url)
 
 
 <h2>Trophys</h2>
