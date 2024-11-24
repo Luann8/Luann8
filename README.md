@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&hide_title=true&hide=prs&theme=radical&count_private=true)
+![GitHub Language Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=radical&langs_count=10)
 
 
 <h2>Trophys</h2>
