@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![Most Used Repos](https://github-readme-stats.vercel.app/api/pin/?username=Luann8&repo=repo-name&theme=radical)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green?style=flat-square)
 
 
 
