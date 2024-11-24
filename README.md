@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
- ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Luann8.visitor-badge)
+![Codewars Badge](https://www.codewars.com/users/Luann8/badges/large)
 
 
 <h2>Trophys</h2>
