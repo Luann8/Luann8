@@ -15,7 +15,6 @@
 </p>
 
 <!-- Skills Section -->
-<h2 align="center">Skills</h2>
 <div align="center">
   <h3>Backend Development</h3>
   <p>
