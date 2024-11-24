@@ -38,10 +38,12 @@
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
-<h2>Popular Repositories</h2>
+
+<h2>My GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luann8&repo=nome-do-repositorio&theme=radical&hide_border=true" alt="Pinned Repo" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=luann8&repo=outro-repositorio&theme=radical&hide_border=true" alt="Pinned Repo" />
+    <img src="https://github-readme-stats-salesp07.vercel.app/api?username=luann8&count_private=true&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="readme stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luann8&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    <img src="https://media.giphy.com/media/l0MYRzcWPwM3oZIlG/giphy.gif" alt="Working" width="200"/>
 </div>
 
 <h2>Trophys</h2>
