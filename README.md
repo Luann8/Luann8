@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green?style=flat-square)
+![Code Quality](https://img.shields.io/codeclimate/maintainability/Luann8/repo-name?style=flat-square)
 
 
 
