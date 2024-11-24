@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![Contributions Map](https://github-readme-map.vercel.app/api?username=Luann8&theme=radical)
+![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=radical)
 
 
 <h2>Trophys</h2>
