@@ -30,10 +30,10 @@
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
 
   <!-- Focus Areas -->
   <h3>Focus now</h3>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
