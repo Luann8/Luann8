@@ -13,7 +13,7 @@
 
 <!-- Skills Section -->
 <div align="center">
-  <h3>Backend Development</h3>
+  <p>Backend Development</p>
   <p>
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
@@ -21,7 +21,7 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </p>
   
-  <h3>Frontend Development</h3>
+  <p>Frontend Development</p>
   <p>
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </p>
 
-  <h3>Currently Focusing On</h3>
+  <p>Currently Focusing On</p>
   <p>
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
     <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
@@ -39,7 +39,7 @@
 </div>
 
 <br>
-<h1 align="center">GitHub Trophies</h1>
+<h2 align="center">GitHub Trophies</h2>
   <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
 </p>
@@ -49,7 +49,7 @@
 </p>
 
 <!-- Links Section -->
-<h1 align="center">Find Me On</h1>
+<h2 align="center">Find Me On</h2>
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
