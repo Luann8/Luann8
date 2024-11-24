@@ -41,7 +41,7 @@
 
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luann8&theme=radical)
 
-![Contributions by Year](https://github-readme-stats.vercel.app/api/github/graphs?username=Luann8&show_icons=true&theme=radical)
+![Wakatime](https://wakatime.com/share/@Luann8/your_wakatime_graph_image_url)
 
 
 <h2>Trophys</h2>
