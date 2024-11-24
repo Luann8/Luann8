@@ -39,7 +39,7 @@
 </div>
 
 <br>
-<h2 align="center">GitHub Trophies</h2>
+<h1 align="center">GitHub Trophies</h1>
   <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
 </p>
