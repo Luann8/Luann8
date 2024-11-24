@@ -37,9 +37,6 @@
   <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />
-  <img src="https://skillicons.dev/icons?i=go" alt="Golang" />
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
 </div>
 
 <h2>GitHub Stats</h2>
