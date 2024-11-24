@@ -38,7 +38,7 @@
   </p>
 </div>
 
-<h2></h2>
+<br>
 <h2 align="center">GitHub Trophies</h2>
   <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
