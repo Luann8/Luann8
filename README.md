@@ -44,10 +44,10 @@
 
 <!-- GitHub Trophies Section -->
 <h2 align="center">GitHub Trophies</h2>
-<p aling="center">
-
-![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luann8&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luann8&theme=radical" alt="Most Used Languages"/>
 </p>
+
 
 <p align="center">
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
