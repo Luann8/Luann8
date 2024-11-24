@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![GitHub Events](https://github-profile-summary-cards.vercel.app/api/cards/events?username=Luann8&theme=radical)
+![Contributions Map](https://github-readme-map.vercel.app/api?username=Luann8&theme=radical)
 
 
 
