@@ -46,9 +46,9 @@
 
 
 <h2>Trophys</h2>
-
-<img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
-
+<p align="center">
+    <img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
+</p>
 
 <!-- Links Section -->
 <h2>Find me on</h2>
