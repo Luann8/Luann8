@@ -39,7 +39,7 @@
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
 </div>
 
-![Svelte Badge](https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Most Used Repos](https://github-readme-stats.vercel.app/api/pin/?username=Luann8&repo=repo-name&theme=radical)
 
 
 
