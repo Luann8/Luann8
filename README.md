@@ -44,9 +44,6 @@
 
 <!-- GitHub Trophies Section -->
 <h2 align="center">GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luann8&theme=radical" alt="Most Used Languages"/>
-</p>
 
 
 <p align="center">
