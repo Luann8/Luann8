@@ -7,7 +7,6 @@
 </p>
 
 <!-- About Me Section -->
-<h2 align="center">About Me</h2>
 <p align="center">
   Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and I have a keen interest in Ethical Hacking. Welcome to my GitHub profile!
 </p>
