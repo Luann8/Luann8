@@ -22,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" />
-  <img src="https://skillicons.dev/icons?i=postgres" alt="postgres" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
 
   <!-- Frontend Skills -->
