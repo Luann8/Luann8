@@ -44,9 +44,9 @@
 
 <!-- GitHub Trophies Section -->
 <h2 align="center">GitHub Trophies</h2>
-<p>
+<p aling="center">
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=radical)
+![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luann8&theme=radical)
 </p>
 
 <p align="center">
