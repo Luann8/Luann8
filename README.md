@@ -59,7 +59,9 @@
   </a>
 </p>
 
-![image](https://github.com/user-attachments/assets/4816049f-9652-47e5-812b-afa5963d9d2c)
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/22a98143377507.57ecc15d9a9e3.gif" alt="Snake Animation" />
+</p>
 
 <!-- Snake Animation -->
 <p align="center">
