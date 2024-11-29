@@ -59,6 +59,8 @@
   </a>
 </p>
 
+![image](https://github.com/user-attachments/assets/4816049f-9652-47e5-812b-afa5963d9d2c)
+
 <!-- Snake Animation -->
 <p align="center">
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
