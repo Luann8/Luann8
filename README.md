@@ -59,10 +59,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://www.bing.com/th/id/OGC.c99e353f761d318322c853c03ebcf21b?pid=1.7&rurl=https%3a%2f%2fdevelopers.giphy.com%2fbranch%2fmaster%2fstatic%2fapi-c99e353f761d318322c853c03ebcf21b.gif&ehk=5v%2fRHTuLyi%2bjiykjpCyOVGuwhdiOV0mVC%2fFcHNJafJo%3d" alt="Gif" />
-</p>
-
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
 
