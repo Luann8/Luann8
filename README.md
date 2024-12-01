@@ -54,7 +54,7 @@
   <a href="https://luann8.github.io/Luann-portifolio/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
   </a>
-  <a href="https://luann8.github.io/Links-Personal/">
+  <a href="https://luann8.github.io/LinkTree/">
     <img alt="Linktree" src="https://img.shields.io/badge/linktree-800080?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
