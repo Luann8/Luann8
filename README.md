@@ -13,7 +13,8 @@
 
 <br>
 <div align="center">
-  <p>Backend Development</p>
+
+  <h2>Backend Technologies</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
@@ -22,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </p>
   
-  <p>Frontend Development</p>
+  <h2>Frontend Technologies</h2>
   <p>
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
@@ -31,15 +32,25 @@
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </p>
 
-  <p>Currently Focusing On</p>
+  <h2>DevOps & Tools</h2>
   <p>
-    <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" />
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-    <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  </p>
+
+  <h2>Current Learning Focus</h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
+    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
   </p>
 </div>
+
 
 <br>
 <h2 align="center">GitHub Trophies</h2>
