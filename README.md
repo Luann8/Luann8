@@ -33,7 +33,7 @@
 
   <p>Currently Focusing On</p>
   <p>
-    <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
+    <img src="https://skillicons.dev/icons?i=sqlite" alt="Sqlite" />
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
     <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
