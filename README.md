@@ -14,13 +14,12 @@
 <br>
 <div align="center">
 
-  <p>Backend Technologies</p>
+  <p>Linguagens de programação</p>
   <p>
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
     <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </p>
   
   <p>Frontend Technologies</p>
@@ -29,7 +28,6 @@
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </p>
 
   <p>DevOps & Tools</p>
@@ -37,17 +35,15 @@
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" />
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </p>
 
   <p>Current Learning Focus</p>
   <p>
     <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />
-    <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />
-    <img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" />
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" />
   </p>
 </div>
 
