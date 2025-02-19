@@ -14,7 +14,7 @@
 <br>
 <div align="center">
 
-  <p>Linguagens de programação</p>
+  <p>Programming languages</p>
   <p>
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
