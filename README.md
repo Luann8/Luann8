@@ -14,7 +14,7 @@
 <br>
 <div align="center">
 
-  <h2>Backend Technologies</h2>
+  <p>Backend Technologies</p>
   <p>
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
@@ -23,7 +23,7 @@
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </p>
   
-  <h2>Frontend Technologies</h2>
+  <p>Frontend Technologies</p>
   <p>
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
@@ -32,7 +32,7 @@
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </p>
 
-  <h2>DevOps & Tools</h2>
+  <p>DevOps & Tools</p>
   <p>
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
@@ -41,7 +41,7 @@
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   </p>
 
-  <h2>Current Learning Focus</h2>
+  <p>Current Learning Focus</p>
   <p>
     <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
