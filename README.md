@@ -16,23 +16,23 @@
   <p>Backend Development</p>
   <p>
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
+    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </p>
   
   <p>Frontend Development</p>
   <p>
+    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </p>
 
   <p>Currently Focusing On</p>
   <p>
-    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
+    <img src="https://skillicons.dev/icons?i=Adonis" alt="Adonis" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   </p>
