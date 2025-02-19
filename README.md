@@ -31,7 +31,7 @@
 
   <p>Currently Focusing On</p>
   <p>
-    <img src="https://skillicons.dev/icons?i=Adonis" alt="Adonis" />
+<img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
