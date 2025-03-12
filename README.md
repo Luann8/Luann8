@@ -33,9 +33,9 @@
   <p>DevOps & Tools</p>
   <p>
     <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   </p>
 
   <p>Current Learning Focus</p>
