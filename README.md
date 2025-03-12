@@ -32,7 +32,7 @@
 
   <p>DevOps & Tools</p>
   <p>
-    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
     <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-    <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
+    <img src="https://skillicons.dev/icons?i=React" alt="React" />
   </p>
 </div>
 
