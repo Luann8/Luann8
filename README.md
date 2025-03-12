@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
-    <img src="https://skillicons.dev/icons?i=React" alt="React" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </p>
 </div>
 
