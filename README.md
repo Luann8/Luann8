@@ -62,10 +62,10 @@
 <h2 align="center">Find Me On</h2>
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
   </a>
   <a href="https://luann8.github.io/LinkTree/">
-    <img alt="Linktree" src="https://img.shields.io/badge/-800080?style=for-the-badge&logo=linktree&logoColor=white" />
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-800080?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
