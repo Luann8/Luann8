@@ -69,8 +69,16 @@
   </a>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
+</p>
+
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
+
+
 
 <!-- Snake Animation -->
 <p align="center">
