@@ -17,7 +17,7 @@
   <p>Programming languages</p>
   <p>
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=ts" alt="ts" />
     <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </p>
