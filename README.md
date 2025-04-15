@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
   </p>
 
   <p>DevOps & Tools</p>
@@ -43,7 +43,7 @@
     <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    <img src="https://skillicons.dev/icons?i=react" alt="MongoDB" />
   </p>
 </div>
 
