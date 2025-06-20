@@ -1,81 +1,52 @@
-<!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header"/>
+# Luann Pereira Mendes (Luann8)  
 
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=800080&size=35&center=true&vCenter=true&width=1000&lines=Hey+!,+I'm+Luann8;Graduating+in+Software+Engineering+🤓;And+Ethical+Hacker+💀;Welcome!+:%29" alt="Typing SVG" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=40)
 
-<!-- About Me Section -->
-<p align="center">
-  Hello! I'm Luann Pereira Mendes from Rio de Janeiro, Brazil. I'm currently graduating in Software Engineering and I have a keen interest in Ethical Hacking. Welcome to my GitHub profile!
-</p>
+## 👨‍💻 About Me  
+I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Brazil, transitioning into **Quality Assurance (QA)** with a strong interest in **Ethical Hacking**. I’m passionate about ensuring software quality through rigorous testing and automation while exploring security vulnerabilities to build robust systems.  
 
-<br>
-<div align="center">
+- 🎓 **Education**: Graduating in Software Engineering  
+- 💼 **Focus**: Quality Assurance (Manual & Automated Testing), Ethical Hacking  
+- 🌎 **Location**: Rio de Janeiro, Brazil  
+- 📫 **Contact**: Find me on my [Portfolio](https://luann8.github.io/Luann-portifolio/) or [Linktree](https://luann8.github.io/LinkTree/)  
 
-  <p>Programming languages</p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
-    <img src="https://skillicons.dev/icons?i=ts" alt="ts" />
-    <img src="https://skillicons.dev/icons?i=dart" alt="Dart" />
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  </p>
-  
-  <p>Frontend Technologies</p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-    <img src="https://skillicons.dev/icons?i=react" alt="React" />
-  </p>
+## 🛠️ Skills  
+### Programming Languages  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)  
 
-  <p>DevOps & Tools</p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=npm" alt="NPM" />
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  </p>
+### Frontend Technologies  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)  
 
-  <p>Current Learning Focus</p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=adonis" alt="AdonisJS" />
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
-  </p>
-</div>
+### QA & DevOps Tools  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)  
 
+### Current Learning  
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=flat-square&logo=adonisjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)  
 
-<br>
-<h2 align="center">GitHub Trophies</h2>
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300px" alt="Computer Illustration"/>
-</p>
+### QA Expertise  
+- **Manual Testing**: Test case creation, bug tracking, regression testing  
+- **Automated Testing**: Writing scripts for UI and API testing  
+- **Tools**: Selenium, Cypress, JUnit, Postman  
+- **Focus**: Functional testing, performance testing, security testing  
 
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
-</p>
+## 🏆 GitHub Stats  
+<p align="center">  
+  <img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=onedark&no-frame=true&margin-w=10&column=6&title=Stars,Commits,Repositories,PullRequest,Followers,Issues" alt="GitHub Trophies" />  
+</p>  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />  
+</p>  
 
-<!-- Links Section -->
-<h2 align="center">Find Me On</h2>
-<p align="center">
-  <a href="https://luann8.github.io/Luann-portifolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=Pinterest&logoColor=white" />
-  </a>
-  <a href="https://luann8.github.io/LinkTree/">
-    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-800080?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-</p>
+## 🚀 Featured Projects  
+- **QA Automation Suite**: Built a test automation framework using Selenium and TypeScript for end-to-end testing of web applications.  
+- **Ethical Hacking Lab**: Simulated penetration testing scenarios using Linux and custom scripts to identify vulnerabilities.  
+- **Portfolio Website**: A responsive portfolio built with Flutter and hosted on GitHub Pages. [View here](https://luann8.github.io/Luann-portifolio/).  
 
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=footer"/>
+## 📬 Connect with Me  
+<p align="center">  
+  <a href="https://luann8.github.io/Luann-portifolio/"><img src="https://img.shields.io/badge/Portfolio-800080?style=flat-square&logo=Pinterest&logoColor=white" alt="Portfolio"/></a>  
+  <a href="https://luann8.github.io/LinkTree/"><img src="https://img.shields.io/badge/Linktree-800080?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"/></a>  
+</p>  
 
-
-
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30&reversal=true)
