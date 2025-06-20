@@ -21,3 +21,8 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 </p>  
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30&reversal=true)
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
