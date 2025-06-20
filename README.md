@@ -1,5 +1,3 @@
-# Luann Pereira Mendes (Luann8)  
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=40)
 
 ## 👨‍💻 About Me  
