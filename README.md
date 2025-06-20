@@ -9,9 +9,9 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 - 📫 **Contact**: Find me on my [Portfolio](https://luann8.github.io/Luann-portifolio/) or [Linktree](https://luann8.github.io/LinkTree/)  
 
 ## 🏆 GitHub Stats  
-<p align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=onedark&no-frame=true&margin-w=10&column=6&title=Stars,Commits,Repositories,PullRequest,Followers,Issues" alt="GitHub Trophies" />  
-</p>  
+<p align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
+</p>
 
 
 ## 📬 Connect with Me  
