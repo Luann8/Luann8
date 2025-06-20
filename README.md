@@ -4,7 +4,7 @@
 I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Brazil, transitioning into **Quality Assurance (QA)** with a strong interest in **Ethical Hacking**. I’m passionate about ensuring software quality through rigorous testing and automation while exploring security vulnerabilities to build robust systems.  
 
 - 🎓 **Education**: Graduating in Software Engineering  
-- 💼 **Focus**: Quality Assurance (Manual & Automated Testing), Ethical Hacking  
+- 💼 **Focus**: Quality Assurance (Manual Testing)
 - 🌎 **Location**: Rio de Janeiro, Brazil  
 - 📫 **Contact**: Find me on my [Portfolio](https://luann8.github.io/Luann-portifolio/) or [Linktree](https://luann8.github.io/LinkTree/)  
 
