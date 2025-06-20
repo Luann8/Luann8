@@ -1,6 +1,6 @@
 # Luann Pereira Mendes (Luann8)  
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30&reversal=true)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer&text=Welcome!%20for%20&fontColor=ffffff&fontSize=30&reversal=true)
 
 ## 👨‍💻 About Me  
 I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Brazil, transitioning into **Quality Assurance (QA)** with a strong interest in **Ethical Hacking**. I’m passionate about ensuring software quality through rigorous testing and automation while exploring security vulnerabilities to build robust systems.  
