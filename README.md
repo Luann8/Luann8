@@ -21,7 +21,7 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 </p>  
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=120&section=footer"/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=30)
 
