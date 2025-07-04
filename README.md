@@ -14,8 +14,7 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 </p>
 
 ## 🧪 QA Stack & Tools  
-<p align="left">
-<p align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
+<p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
   <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
