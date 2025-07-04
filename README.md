@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120§ion=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=40" alt="Welcome to my GitHub!">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=40" alt="Welcome to my GitHub!">
 
 ## 👨‍💻 About Me  
 I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Brazil, transitioning into **Quality Assurance (QA)** with a strong interest in **Ethical Hacking**. I’m passionate about ensuring software quality through rigorous testing and automation while exploring security vulnerabilities to build robust systems.  
 
 - 🎓 **Education**: Graduating in Software Engineering  
-- 💼 **Focus**: Quality Assurance Terster
+- 💼 **Focus**: Quality Assurance Tester  
 - 🌎 **Location**: Rio de Janeiro, Brazil  
 - 📫 **Contact**: Find me on my [Portfolio](https://luann8.github.io/Luann-portifolio/) or [Linktree](https://luann8.github.io/LinkTree/)  
 
@@ -14,12 +14,12 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 </p>
 
 ## 🧪 QA Stack & Tools  
-<p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
-  <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+<p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="https://www.cypress.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
 </p>
 
 ## 📬 Connect with Me  
@@ -29,7 +29,7 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 </p>  
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontColor=ffffff&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800080&fontColor=ffffff&height=120&section=footer"/>
 
 <!-- Snake Animation -->
 <p align="center">
