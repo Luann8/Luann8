@@ -13,9 +13,16 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 </p>
 
-## my cunstons 
-
-<p align="center"> <!-- Cypress --> <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" /> ](https://github.com/tandpfun/skill-icons/blob/main/icons/Cypress-Light.svg)<!-- Postman --> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> <!-- Linux --> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <!-- Bash --> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /> <!-- Git --> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> <!-- VS Code --> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> <!-- JavaScript --> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /> </p>
+## 🧪 QA Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
+</p>
 
 ## 📬 Connect with Me  
 <p align="center">  
