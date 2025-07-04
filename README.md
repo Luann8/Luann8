@@ -17,7 +17,7 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 <p align="left">
 <p align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px;">
   <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" />
-</p>  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
