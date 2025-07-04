@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=40" alt="Welcome to my GitHub!">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Luann+Pereira+Mendes!;QA+Tester+%7C+Ethical+Hacking+Enthusiast;Ensuring+Quality+One+Test+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Luann+Pereira+Mendes!;QA+Tester+%7C+;Ensuring+Quality" alt="Typing SVG" />
 </p>
 
 ## 👨‍💻 About Me  
