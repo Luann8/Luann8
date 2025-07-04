@@ -19,9 +19,6 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
   <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" />
 </p>
 
 ## 📬 Connect with Me  
