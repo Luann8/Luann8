@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=800080&height=120&section=header&text=Welcome%20to%20my%20GitHub!&fontColor=ffffff&fontSize=40" alt="Welcome to my GitHub!">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Luann+Pereira+Mendes!;QA+Tester+%7C+Ethical+Hacking+Enthusiast;Ensuring+Quality+One+Test+at+a+Time" alt="Typing SVG" />
+</p>
+
 ## 👨‍💻 About Me  
 I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Brazil, transitioning into **Quality Assurance (QA)** with a strong interest in **Ethical Hacking**. I’m passionate about ensuring software quality through rigorous testing and automation while exploring security vulnerabilities to build robust systems.  
 
