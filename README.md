@@ -15,8 +15,7 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 
 ## my cunstons 
 
-<p align="center"> <!-- Cypress --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg"title="Cypress" alt="Cypress" width="50" height="50"/> 
-<!-- Postman --> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="50" height="50"/> <!-- Linux --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="50" height="50"/> <!-- Bash --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="50" height="50"/> <!-- Git --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/> <!-- VS Code --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/> <!-- JavaScript --> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> </p>
+<p align="center"> <!-- Cypress --> <img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" /> <!-- Postman --> <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /> <!-- Linux --> <img src="https://skillicons.dev/icons?i=linux" alt="Linux" /> <!-- Bash --> <img src="https://skillicons.dev/icons?i=bash" alt="Bash" /> <!-- Git --> <img src="https://skillicons.dev/icons?i=git" alt="Git" /> <!-- VS Code --> <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /> <!-- JavaScript --> <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" /> </p>
 
 ## 📬 Connect with Me  
 <p align="center">  
