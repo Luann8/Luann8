@@ -35,7 +35,9 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   </a>
 </p>
-
+  <a href="https://playwright.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" />
+  </a>
 
 
 ## 📬 Connect with Me  
