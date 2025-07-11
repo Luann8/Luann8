@@ -18,7 +18,7 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 </p>
 
 ## 🧪 QA Stack & Tools  
-<p align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+<p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <a href="https://playwright.dev/" target="_blank" title="Playwright">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50"/>
   </a>
