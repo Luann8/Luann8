@@ -19,11 +19,12 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 
 ## 🧪 QA Stack & Tools  
 <p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.cypress.io/" target="_blank"><img src="https://skillicons.dev/icons?i=cypress" alt="Cypress" /></a>
+  <a href="https://www.cypress.io/" target="_blank"><img src="https://skillicons.dev/icons?i=playwright" alt="Cypress" /></a>
   <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" /></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash" alt="Bash" /></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="VS Code" /></a>
 </p>
 
 ## 📬 Connect with Me  
