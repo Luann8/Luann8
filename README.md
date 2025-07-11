@@ -17,27 +17,29 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
   <img width="100%" src="https://github-profile-trophy.vercel.app/?username=Luann8&title=MultiLanguage,Repositories,Commits&theme=radical&no-frame=true&background=0d1117" alt="GitHub Trophies" />
 </p>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 ## 🧪 QA Stack & Tools  
-<p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 10px; flex-wrap: wrap;">
-  <a href="https://python-pillow.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Pillow (Python)" />
+<p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 20px; flex-wrap: wrap; font-size: 40px; color: white;">
+  <a href="https://playwright.dev/" target="_blank" title="Playwright">
+    <i class="devicon-playwright-plain colored"></i>
   </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
+    <i class="devicon-postman-plain colored"></i>
   </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  <a href="https://www.linux.org/" target="_blank" title="Linux">
+    <i class="devicon-linux-plain colored"></i>
   </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
+    <i class="devicon-bash-plain colored"></i>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
+    <i class="devicon-vscode-plain colored"></i>
+  </a>
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <i class="devicon-python-plain colored"></i>
   </a>
 </p>
-  <a href="https://playwright.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=playwright" alt="Playwright" />
-  </a>
 
 
 ## 📬 Connect with Me  
