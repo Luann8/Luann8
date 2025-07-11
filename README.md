@@ -20,7 +20,7 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ## 🧪 QA Stack & Tools  
-<p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 20px; flex-wrap: wrap; font-size: 40px; color: white;">
+
   <a href="https://playwright.dev/" target="_blank" title="Playwright">
     <i class="devicon-playwright-plain colored"></i>
   </a>
