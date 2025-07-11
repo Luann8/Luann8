@@ -18,26 +18,27 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 </p>
 
 ## 🧪 QA Stack & Tools  
-<p align="center" style="font-size: 45px; display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+<p align="center" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <a href="https://playwright.dev/" target="_blank" title="Playwright">
-    <i class="devicon-playwright-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" title="Postman">
-    <i class="devicon-postman-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" title="Linux">
-    <i class="devicon-linux-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="Bash">
-    <i class="devicon-bash-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
-    <i class="devicon-vscode-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
   </a>
   <a href="https://www.python.org/" target="_blank" title="Python">
-    <i class="devicon-python-plain colored"></i>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
 </p>
+
 
 ## 📬 Connect with Me  
 <p align="center">  
