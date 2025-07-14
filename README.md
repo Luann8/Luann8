@@ -37,6 +37,10 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+</a>
+  </a>
 </p>
 
 
