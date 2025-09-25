@@ -20,7 +20,7 @@ I'm Luann Pereira Mendes, a Software Engineering student from Rio de Janeiro, Br
 ## 🧪 QA Stack & Tools  
 <p align="left" style="background-color:#0d1117; padding: 10px; border-radius: 10px; display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
   <a href="https://playwright.dev/" target="_blank" title="Playwright">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java.svg" alt="Java" width="50" height="50"/>
   </a>
   <a href="https://www.postman.com/" target="_blank" title="Postman">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" alt="Postman" width="50" height="50"/>
