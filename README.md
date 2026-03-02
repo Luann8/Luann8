@@ -34,9 +34,7 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 <p align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Rank-S%20Class-007acc?style=for-the-badge&logo=github&logoColor=white" alt="Rank S" />
-  <img src="https://img.shields.io/badge/Status-Senior%20Contributor-00bfff?style=for-the-badge&logo=git&logoColor=white" alt="Senior" />
-  <img src="https://img.shields.io/badge/Security-Specialist-0000FF?style=for-the-badge&logo=security&logoColor=white" alt="Security" />
+  <img src="https://metrics.lecoq.io/Luann8?template=classic&base=achievements&achievements=1&achievements_display=compact&config_timezone=America%2FSao_Paulo&theme=tokyonight" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
