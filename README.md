@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007acc,00bfff,61afef&height=140&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Luann Pereira Mendes - DevSecOps">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,007acc,00bfff&height=140&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Luann Pereira Mendes - DevSecOps">
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00bfff&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
