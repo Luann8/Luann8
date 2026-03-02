@@ -32,8 +32,6 @@ Foco: entregar software **rápido, confiável e inquebrável**.
 </p>
 
 ## 🔐 DevSecOps Arsenal (2025/2026 Ready)
-Ferramentas que uso para **segurança automatizada no pipeline**.
-## 🔐 DevSecOps Arsenal (2025/2026 Ready)
 
 Ferramentas que domino para **segurança shift-left**, **automação no pipeline** e **defesa em profundidade** — do código ao runtime.
 
