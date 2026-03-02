@@ -1,5 +1,5 @@
 <p align="center">
- <img width="600" height="378" alt="image" src="https://github.com/user-attachments/assets/9e11a53a-07e2-48e6-89b1-ecf766eaf77c" />
+ <img width="600" height="378" alt="image" src="[https://github.com/user-attachments/assets/9e11a53a-07e2-48e6-89b1-ecf766eaf77c](https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif)" />
 
   
 </p
