@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5,0072ff&height=181&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=54&animation=twinkling&fontAlignY=40" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
