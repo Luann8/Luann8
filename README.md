@@ -30,14 +30,7 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 <br>
 
 ## 🏆 Atividade no GitHub
-
-
-
-<p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=tokyonight&hide_border=true&title_color=0078d4&icon_color=0078d4&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
-  
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=tokyonight&hide_border=true&title_color=0078d4&text_color=8b949e&bg_color=0d1117" alt="Top Languages" />
-</p>
+>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=0078d4&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
@@ -46,7 +39,6 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=00bfff&line=007acc&point=ffffff" alt="Activity Graph" />
 </p>
-
 
 
 <br>
