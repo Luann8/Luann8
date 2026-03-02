@@ -33,7 +33,7 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Luann8?template=classic&base=achievements&achievements=1&achievements_display=compact&config_timezone=America%2FSao_Paulo&theme=tokyonight" alt="GitHub Metrics" />
+  <img src="https://metrics.lecoq.io/Luann8?template=classic&base=achievements&achievements=1&achievements_display=compact&theme=tokyonight" alt="Achievements" />
 </p>
 
 <p align="center">
