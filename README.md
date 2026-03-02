@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00a4ef,0078d4,005a9e&height=182&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=54&animation=twinkling&fontAlignY=40" alt="Luann Pereira Mendes - DevSecOps">
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Luann8/Luann8/main/matrix-header.png" alt="Luann Pereira Mendes - DevSecOps Matrix Header">
+</p>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
 </p>
