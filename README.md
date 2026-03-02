@@ -29,15 +29,16 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 ## 🏆 Atividade no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=c0caf5&hide=prs,issues" alt="GitHub Stats" width="420" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=c0caf5" alt="Contribution Streak" width="420" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=blue-green&no-frame=true&margin-w=15&title=MultiLanguage,Repositories,Commits,Stars,PullRequest" alt="Trophies" />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luann8)](https://github.com/Luann8/github-profile-trophy)
+
 </p>
 
 <br>
