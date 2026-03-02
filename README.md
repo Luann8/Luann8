@@ -1,5 +1,5 @@
 <p align="center">
- <img width="600" height="378" alt="image" src="(https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gifhttps://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif)" />
+ <img width="600" height="378" alt="image" src="(https:///wp-content/uploads/2017/12/svg-term-cli.gif)" />
 
   
 </p
