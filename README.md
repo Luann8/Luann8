@@ -35,6 +35,10 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=c0caf5" alt="Contribution Streak" width="420" />
 </p>
 
+<p align="center">
+  <img src="https://metrics.lecoq.io/Luann8?template=classic&base=achievements&achievements=1&achievements_display=compact&config_timezone=America%2FSao_Paulo&theme=tokyonight" alt="GitHub Metrics" />
+</p>
+
 <br>
 
 ## 🔐 Tech Stack
