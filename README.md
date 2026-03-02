@@ -27,14 +27,8 @@ Integro **segurança desde o início do ciclo de desenvolvimento** (*shift-left*
 
 <p align="center">
 
-  https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=8b949e" alt="GitHub Stats" />
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=tokyonight&no-frame=true&margin-w=15&title=MultiLanguage,Repositories,Commits,Stars,PullRequest" alt="GitHub Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=8b949e" alt="GitHub Stats" />
 </p>
-
 <br>
 
 ## 🔐 Tech Stack (Segurança & Operações)
