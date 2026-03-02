@@ -70,11 +70,6 @@ Ferramentas do dia a dia para testes, segurança e automação de pipelines.
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9370db,800080,4b0082&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
 
-<!-- Contribution Snake (corrigido para seu usuário) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Luann8/Luann8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
 Snake Animation -->
 <p align="center">
 &nbsp;&nbsp;<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
