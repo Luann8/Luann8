@@ -33,16 +33,18 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Luann8?template=classic&base=achievements&achievements=1&achievements_display=compact&theme=tokyonight" alt="Achievements" />
+<img src="https://metrics.lecoq.io/Luann8?template=classic&base=0&plugin_skyline=1&plugin_skyline_year=2024&theme=tokyonight" alt="Skyline" width="100%"/>
+
+
+
+<img src="https://metrics.lecoq.io/Luann8?template=classic&base=achievements&achievements=1&achievements_display=compact&theme=tokyonight" alt="Achievements" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=00bfff&line=007acc&point=ffffff" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/Luann8?template=classic&base=0&plugin_skyline=1&plugin_skyline_year=2024&theme=tokyonight" alt="Skyline" />
-</p>
+
 
 <br>
 
