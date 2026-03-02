@@ -5,7 +5,7 @@
 
 <p align="center">
  <img width="400" height="100%" alt="image" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
-</p
+</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Security+First-007acc?style=for-the-badge&logo=lock&logoColor=white" alt="Security First" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Shift--Left-00bfff?style=for-the-badge&logo=devsecops&logoColor=black" alt="Shift-Left" />&nbsp;&nbsp;
