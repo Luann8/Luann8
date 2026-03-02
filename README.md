@@ -20,9 +20,7 @@ Trabalho com **segurança integrada ao desenvolvimento** (*shift-left security*)
 ---
 
 ## 🏆 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=8b949e" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=tokyonight&hide_border=true&title_color=00bfff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
@@ -60,9 +58,6 @@ Trabalho com **segurança integrada ao desenvolvimento** (*shift-left security*)
   <a href="https://luann8.github.io/LinkTree/"><img src="https://img.shields.io/badge/Linktree-00bfff?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,007acc,00bfff&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
-
-Snake Animation -->
 <p align="center">
 &nbsp;&nbsp;<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
