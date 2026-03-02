@@ -46,6 +46,7 @@ Ferramentas que domino para **segurança shift-left**, **automação no pipeline
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Git-F46800?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </p>
 
