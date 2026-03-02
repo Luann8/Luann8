@@ -29,7 +29,9 @@ Integro **segurança desde o início do ciclo de desenvolvimento** (shift-left),
 ## 🏆 Atividade no GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=8b949e" alt="GitHub Stats" />
+
+https://github-profile-trophy.vercel.app/?username=Luann8-ma&rank=S,AAA
+
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=8b949e&langs_count=8" alt="Top Languages" />
 </p>
 
