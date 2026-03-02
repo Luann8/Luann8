@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/baf1658fb1e809d95911eabe2881caa0/6a91a024af0cd299-0e/s540x810/4d934738bf60b255dbf68bab52d01e6183bce79d.gif" width="100%" height="180" alt="Efeito Matrix Banner" />
 </p>
-</p>
-  
+  <p align="center">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
 </p>
 
