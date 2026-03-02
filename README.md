@@ -75,6 +75,7 @@ Ferramentas do dia a dia para testes, segurança e automação de pipelines.
   <img src="https://raw.githubusercontent.com/Luann8/Luann8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
+Snake Animation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Feito%20com-❤️%20e%20🔒-800080?style=flat-square" alt="Feito com carinho e segurança" />
+&nbsp;&nbsp;<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
