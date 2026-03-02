@@ -41,9 +41,8 @@ Ferramentas que uso para **segurança automatizada no pipeline**.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
   <!-- Security Powerhouse -->
-  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
-  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
-  <img src="https://img.shields.io/badge/Semgrep-76FF7A?style=for-the-badge&logo=semgrep&logoColor=black" alt="Semgrep" />
+
+  <img src="https://img.shields.io/badge/Vangrant-76FF7A?style=for-the-badge&logo=vagrant&logoColor=black" alt="Vagrant" />
   <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 
   <!-- Infra & Pipeline -->
