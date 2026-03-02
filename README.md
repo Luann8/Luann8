@@ -2,11 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5,0072ff&height=181&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=54&animation=twinkling&fontAlignY=40" />
 </p>
 
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
-</p>
-
 <p align="center">
  <img width="400" height="100%" alt="image" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
 </p>
@@ -67,6 +62,10 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 - **Observability** — Monitoramento proativo com Grafana  
 
 <br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
+</p>
 
 ## 📬 Vamos conversar?
 
