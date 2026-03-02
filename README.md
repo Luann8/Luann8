@@ -37,7 +37,8 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 
 <p align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Luann8)](https://github.com/Luann8/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luann8)](https://github.com//github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luann8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
