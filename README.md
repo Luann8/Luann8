@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/baf1658fb1e809d95911eabe2881caa0/6a91a024af0cd299-0e/s540x810/4d934738bf60b255dbf68bab52d01e6183bce79d.gif" width="100%" height="180" alt="Efeito Matrix Banner" />
+ <img width="600" height="378" alt="image" src="https://github.com/user-attachments/assets/9e11a53a-07e2-48e6-89b1-ecf766eaf77c" />
+
+  
+  <img src="" width="100%" height="180" alt="Efeito Matrix Banner" />
 </p>
   <p align="center">
 
