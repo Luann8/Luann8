@@ -79,8 +79,8 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 
 <!-- Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Luann8/Luann8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+&nbsp;&nbsp;<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Feito%20com-❤️%20e%20🔒-007acc?style=flat-square&logoColor=white" alt="Feito com carinho e segurança" />
