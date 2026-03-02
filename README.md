@@ -2,8 +2,7 @@
  <img width="600" height="378" alt="image" src="https://github.com/user-attachments/assets/9e11a53a-07e2-48e6-89b1-ecf766eaf77c" />
 
   
-  <img src="" width="100%" height="180" alt="Efeito Matrix Banner" />
-</p>
+</p
   <p align="center">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
