@@ -35,22 +35,21 @@ Foco: entregar software **rápido, confiável e inquebrável**.
 Ferramentas que uso para **segurança automatizada no pipeline**.
 
 <p align="center" style="background:#0d1117;padding:20px;border-radius:15px;display:flex;gap:15px;flex-wrap:wrap;justify-content:center;">
-
-  <!-- QA & Automation -->
-  <img src="https://img.shields.io/badge/Testim-45ba4b?style=for-the-badge&logo=testim&logoColor=white" alt="Testim" />
+<!-- QA & Automation -->
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-
-  <!-- Security Powerhouse -->
-
-  <img src="https://img.shields.io/badge/Vangrant-76FF7A?style=for-the-badge&logo=vagrant&logoColor=black" alt="Vagrant" />
-  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
 
   <!-- Infra & Pipeline -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 
+</p>
 ### Pipeline Mindset
 - **Shift-Left** → Segurança desde o commit (pre-commit hooks, SAST)
 - **Automação Total** → DAST (ZAP), SCA (Snyk), Container Scan (Trivy)
