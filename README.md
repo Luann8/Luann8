@@ -25,8 +25,11 @@ Trabalho com **segurança integrada ao desenvolvimento** (shift-left security), 
 
 ## 🏆 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9370db&icon_color=800080&text_color=ffffff" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=radical&hide_border=true&background=0d1117&stroke=800080&ring=9370db&fire=9370db&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="Streak Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=00bfff&icon_color=00bfff&text_color=8b949e" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=cobalt&hide_border=true&bg_color=0d1117&title_color=00bfff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=cobalt&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&no-frame=true&margin-w=15&title=MultiLanguage,Repositories,Commits,Stars,PullRequest" alt="Trophies" />
@@ -70,7 +73,13 @@ Ferramentas do dia a dia para testes, segurança e automação de pipelines.
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9370db,800080,4b0082&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
 
+<!-- Contribution Snake -->
+
 Snake Animation -->
 <p align="center">
 &nbsp;&nbsp;<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Feito%20com-❤️%20e%20🔒-800080?style=flat-square" alt="Feito com carinho e segurança" />
 </p>
