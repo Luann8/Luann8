@@ -35,10 +35,6 @@ Foco: entregar software **rápido, confiável e inquebrável**.
 Ferramentas que uso para **segurança automatizada no pipeline**.
 
 <p align="center" style="background:#0d1117;padding:20px;border-radius:15px;display:flex;gap:15px;flex-wrap:wrap;justify-content:center;">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 
   <!-- QA & Automation -->
   <img src="https://img.shields.io/badge/Testim-45ba4b?style=for-the-badge&logo=testim&logoColor=white" alt="Testim" />
@@ -48,7 +44,7 @@ Ferramentas que uso para **segurança automatizada no pipeline**.
   <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
   <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
   <img src="https://img.shields.io/badge/Semgrep-76FF7A?style=for-the-badge&logo=semgrep&logoColor=black" alt="Semgrep" />
-  <img src="https://img.shields.io/badge/Trivy-000000?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 
   <!-- Infra & Pipeline -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
