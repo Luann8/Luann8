@@ -64,10 +64,8 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 
 
 ## 📬 Vamos conversar?
-
-<p>
   
-</p>
+<br>
 
 <p align="center">
  <img width="400" height="100%" alt="image" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
