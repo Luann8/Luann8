@@ -30,12 +30,6 @@ Integro **segurança desde o início do ciclo de desenvolvimento** (*shift-left*
   https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S,AAA
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=tokyonight&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=8b949e" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=tokyonight&hide_border=true&title_color=00bfff&text_color=8b949e&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=tokyonight&no-frame=true&margin-w=15&title=MultiLanguage,Repositories,Commits,Stars,PullRequest" alt="GitHub Trophies" />
