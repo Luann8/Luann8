@@ -3,8 +3,10 @@
 </p>
 
 <p align="center">
- <img width="400" height="100%" alt="image" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
 </p>
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/Security+First-007acc?style=for-the-badge&logo=lock&logoColor=white" alt="Security First" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Shift--Left-00bfff?style=for-the-badge&logo=devsecops&logoColor=black" alt="Shift-Left" />&nbsp;&nbsp;
@@ -68,6 +70,11 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 </p>
 
 ## 📬 Vamos conversar?
+
+
+<p align="center">
+ <img width="400" height="100%" alt="image" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
+</p>
 
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
