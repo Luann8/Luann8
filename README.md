@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
 </p>
+
 <p align="center">
  <img width="400" height="100%" alt="image" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
 </p
