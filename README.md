@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,007acc,00bfff&height=140&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Luann Pereira Mendes - DevSecOps">
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00bfff&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
 </p>
@@ -68,6 +66,3 @@ Trabalho com **segurança integrada ao desenvolvimento** (*shift-left security*)
   <img src="https://raw.githubusercontent.com/Luann8/Luann8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Feito%20com-❤️%20e%20🔒-007acc?style=flat-square" alt="Feito com carinho e segurança" />
-</p>
