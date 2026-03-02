@@ -62,9 +62,6 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
-</p>
 
 ## 📬 Vamos conversar?
 
