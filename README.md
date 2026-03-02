@@ -32,12 +32,15 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
 ## 🏆 Atividade no GitHub
 
 
+
 <p align="center">
-<img src="https://metrics.lecoq.io/Luann8?template=classic&base=0&plugin_skyline=1&plugin_skyline_year=2024&theme=tokyonight" alt="Skyline" width="100%"/>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=tokyonight&hide_border=true&title_color=0078d4&icon_color=0078d4&text_color=8b949e&bg_color=0d1117" alt="GitHub Stats" />
+  
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&theme=tokyonight&hide_border=true&title_color=0078d4&text_color=8b949e&bg_color=0d1117" alt="Top Languages" />
+</p>
 
-
-
-<img src="https://metrics.lecoq.io/Luann8?template=classic&base=achievements&achievements=1&achievements_display=compact&theme=tokyonight" alt="Achievements" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=0078d4&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
