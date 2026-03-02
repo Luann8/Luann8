@@ -33,24 +33,44 @@ Foco: entregar software **rápido, confiável e inquebrável**.
 
 ## 🔐 DevSecOps Arsenal (2025/2026 Ready)
 Ferramentas que uso para **segurança automatizada no pipeline**.
+## 🔐 DevSecOps Arsenal (2025/2026 Ready)
 
-<p align="center" style="background:#0d1117;padding:20px;border-radius:15px;display:flex;gap:15px;flex-wrap:wrap;justify-content:center;">
-<!-- QA & Automation -->
+Ferramentas que domino para **segurança shift-left**, **automação no pipeline** e **defesa em profundidade** — do código ao runtime.
+
+<p align="center" style="background:#0d1117; padding:30px; border-radius:20px; display:flex; gap:18px; flex-wrap:wrap; justify-content:center; box-shadow:0 8px 30px rgba(128,0,128,0.4); border:1px solid #4b0082;">
+
+  <!-- QA & Secure Testing -->
+  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+
+  <!-- Core Security Scanning -->
+  <img src="https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP ZAP" />
+  <img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" alt="Snyk" />
+  <img src="https://img.shields.io/badge/Semgrep-76FF7A?style=for-the-badge&logo=semgrep&logoColor=black" alt="Semgrep" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube" />
+  <img src="https://img.shields.io/badge/Checkov-5A67D8?style=for-the-badge&logo=checkov&logoColor=white" alt="Checkov" />
+  <img src="https://img.shields.io/badge/Trivy-1E90FF?style=for-the-badge&logo=trivy&logoColor=white" alt="Trivy" />
+
+  <!-- Infra & Pipeline -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Vagrant-1563FF?style=for-the-badge&logo=vagrant&logoColor=white" alt="Vagrant" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 
 </p>
-### Pipeline Mindset
-- **Shift-Left** → Segurança desde o commit (pre-commit hooks, SAST)
-- **Automação Total** → DAST (ZAP), SCA (Snyk), Container Scan (Trivy)
-- **Ethical Hacking** → Recon + vuln hunting aplicado a APIs e web apps
-- **CI/CD Seguro** → GitHub Actions + secrets scanning + policy as code
+
+### Pipeline Mindset & Cobertura
+- **Shift-Left Security** → Pre-commit + SAST (Semgrep, SonarQube) + IaC Scan (Checkov, Terraform validate)
+- **Automação Completa** → SCA (Snyk), Container & Vuln Scanning (Trivy), DAST (OWASP ZAP)
+- **Observability Segura** → Prometheus + Grafana para monitoring de ameaças e performance
+- **Ethical Hacking Aplicado** → Recon, API testing (Postman + ZAP), vuln hunting em ambientes containerizados (Docker/K8s)
+- **CI/CD Inquebrável** → GitHub Actions com secrets scanning, policy enforcement e automated gates
+
 
 ## 📬 Let's Connect & Collaborate
 <p align="center">
