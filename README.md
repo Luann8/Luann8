@@ -1,13 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=800080,4b0082,9370db&height=140&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Luann Pereira Mendes - DevSecOps">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=007acc,00bfff,61afef&height=140&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=50&animation=twinkling&fontAlignY=40" alt="Luann Pereira Mendes - DevSecOps">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=9370DB&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00bfff&center=true&vCenter=true&width=500&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Security+First-800080?style=for-the-badge&logo=lock&logoColor=white" alt="Security First" />
-  <img src="https://img.shields.io/badge/Shift--Left-4b0082?style=for-the-badge&logo=devsecops&logoColor=white" alt="Shift-Left" />
-  <img src="https://img.shields.io/badge/Automated+Security-9370db?style=for-the-badge&logo=automated&logoColor=white" alt="Automated Security" />
+  <img src="https://img.shields.io/badge/Security+First-007acc?style=for-the-badge&logo=lock&logoColor=white" alt="Security First" />
+  <img src="https://img.shields.io/badge/Shift--Left-00bfff?style=for-the-badge&logo=devsecops&logoColor=black" alt="Shift-Left" />
+  <img src="https://img.shields.io/badge/Automated+Security-61afef?style=for-the-badge&logo=automated&logoColor=white" alt="Automated Security" />
 </div>
 
 ## 🛡️ About Me
@@ -32,13 +32,13 @@ Trabalho com **segurança integrada ao desenvolvimento** (shift-left security), 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=cobalt&hide_border=true&background=0d1117&stroke=00bfff&ring=00bfff&fire=00bfff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=radical&no-frame=true&margin-w=15&title=MultiLanguage,Repositories,Commits,Stars,PullRequest" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Luann8&theme=blue-green&no-frame=true&margin-w=15&title=MultiLanguage,Repositories,Commits,Stars,PullRequest" alt="Trophies" />
 </p>
 
 ## 🔐 Ferramentas que utilizo
 Ferramentas do dia a dia para testes, segurança e automação de pipelines.
 
-<p align="center" style="background:#0d1117; padding:25px; border-radius:15px; display:flex; gap:16px; flex-wrap:wrap; justify-content:center; border:1px solid #4b0082;">
+<p align="center" style="background:#0d1117; padding:25px; border-radius:15px; display:flex; gap:16px; flex-wrap:wrap; justify-content:center; border:1px solid #007acc;">
 
   <!-- QA & Testing -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
@@ -54,7 +54,7 @@ Ferramentas do dia a dia para testes, segurança e automação de pipelines.
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
   
   <!-- Versionamento -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Git-007acc?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 </p>
 
@@ -66,20 +66,18 @@ Ferramentas do dia a dia para testes, segurança e automação de pipelines.
 
 ## 📬 Vamos conversar?
 <p align="center">
-  <a href="https://luann8.github.io/Luann-portifolio/"><img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://luann8.github.io/LinkTree/"><img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
+  <a href="https://luann8.github.io/Luann-portifolio/"><img src="https://img.shields.io/badge/Portfolio-007acc?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://luann8.github.io/LinkTree/"><img src="https://img.shields.io/badge/Linktree-00bfff?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" /></a>
 </p>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9370db,800080,4b0082&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=61afef,00bfff,007acc&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
 
-<!-- Contribution Snake -->
-
-Snake Animation -->
+<!-- Contribution Snake (corrigido para seu repo) -->
 <p align="center">
-&nbsp;&nbsp;<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Luann8/Luann8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Feito%20com-❤️%20e%20🔒-800080?style=flat-square" alt="Feito com carinho e segurança" />
+  <img src="https://img.shields.io/badge/Feito%20com-❤️%20e%20🔒-007acc?style=flat-square" alt="Feito com carinho e segurança" />
 </p>
