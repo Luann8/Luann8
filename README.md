@@ -62,7 +62,7 @@ Trabalho com **segurança integrada ao desenvolvimento** (*shift-left security*)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0000FF,007acc,00bfff&height=120&section=footer&animation=twinkling" alt="Footer Wave" />
 
+Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Luann8/Luann8/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+&nbsp;&nbsp;<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
-
