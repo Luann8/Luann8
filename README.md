@@ -49,7 +49,6 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
   <img src="https://img.shields.io/badge/Postman-007acc?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />&nbsp;
-  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />&nbsp;
   <img src="https://img.shields.io/badge/Linux-007acc?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />&nbsp;
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />&nbsp;
   <img src="https://img.shields.io/badge/Grafana-007acc?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />&nbsp;
