@@ -53,6 +53,8 @@ Integro **segurança desde o início do ciclo** (shift-left security), automatiz
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />&nbsp;
   <img src="https://img.shields.io/badge/Grafana-007acc?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />&nbsp;
   <img src="https://img.shields.io/badge/Git-007acc?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Vim-007acc?style=for-the-badge&logo=git&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/Shell-007acc?style=for-the-badge&logo=git&logoColor=white" alt="shell" />
 </p>
 
 ### Aplicação prática
