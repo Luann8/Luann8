@@ -88,8 +88,7 @@ Mentalidade:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:04fbcb&height=120&section=footer"/>
 
 <p align="center">
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" />
