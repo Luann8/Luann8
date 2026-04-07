@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00bfff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=180&section=header&text=Luann%20Pereira%20Mendes&fontColor=00ffcc&fontSize=50&animation=fadeIn" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;System+Builder;Automation+%26+Low+Level;Think+Like+a+Hacker" />
