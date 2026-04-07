@@ -4,9 +4,9 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=matrix&logoColor=black" />
-  <img src="https://img.shields.io/badge/MODE-TERMINAL-0f0f0f?style=for-the-badge&logo=gnubash&logoColor=00ff00" />
-  <img src="https://img.shields.io/badge/MINDSET-HACKER-001100?style=for-the-badge&logo=hackthebox&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-04fbcb?style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/MODE-TERMINAL-04fbcb?style=for-the-badge&logo=gnubash&logoColor=04fbcb" />
+  <img src="https://img.shields.io/badge/MINDSET-HACKER-04fbcb?style=for-the-badge&logo=hackthebox&logoColor=04fbcb" />
 </div>
 
 <br>
@@ -95,6 +95,6 @@ Mentalidade:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/echo%20%22stay%20curious%22-000000?style=flat-square&logo=gnubash&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/echo%20%22stay%20curious%22-000000?style=flat-square&logo=gnubash&logoColor=04fbcb"/>
 </p>
 
