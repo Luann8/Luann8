@@ -51,11 +51,10 @@ Mentalidade:
 <h2>🧰 $ tech_stack --list</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00ff00"/>
-  <img src="https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=bugatti&logoColor=00ff00"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=04fbcb"/>
 </p>
 
 <br>
