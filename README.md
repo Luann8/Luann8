@@ -4,9 +4,11 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-04fbcb?style=for-the-badge&logo=matrix&logoColor=black" />
-  <img src="https://img.shields.io/badge/MODE-TERMINAL-04fbcb?style=for-the-badge&logo=gnubash&logoColor=04fbcb" />
-  <img src="https://img.shields.io/badge/MINDSET-HACKER-04fbcb?style=for-the-badge&logo=hackthebox&logoColor=04fbcb" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-04fbcb?style=for-the-badge&logo=matrix&logoColor=black&labelColor=04fbcb&color=04fbcb&logoWidth=20&colorA=04fbcb&colorB=04fbcb&labelColor=04fbcb&label=STATUS&message=ONLINE&messageColor=black" />
+  
+  <img src="https://img.shields.io/badge/MODE-TERMINAL-04fbcb?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=04fbcb&color=04fbcb&messageColor=black" />
+  
+  <img src="https://img.shields.io/badge/MINDSET-HACKER-04fbcb?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=04fbcb&color=04fbcb&messageColor=black" />
 </div>
 
 <br>
