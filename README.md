@@ -79,10 +79,10 @@ Mentalidade:
 
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00ff00"/>
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=04fbcb"/>
   </a>
   <a href="https://luann8.github.io/LinkTree/">
-    <img src="https://img.shields.io/badge/LINKS-000000?style=for-the-badge&logo=chainlink&logoColor=00ff00"/>
+    <img src="https://img.shields.io/badge/LINKS-000000?style=for-the-badge&logo=chainlink&logoColor=04fbcb"/>
   </a>
 </p>
 
