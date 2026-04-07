@@ -3,92 +3,117 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1200&color=00bfff&center=true&vCenter=true&width=540&lines=DevSecOps+Engineer;QA+Security+%26+AppSec;Shift-Left+Security;Ethical+Hacking+Mindset" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00bfff&center=true&vCenter=true&width=700&lines=Software+Engineer;DevSecOps+Engineer;Backend+%26+Cloud;Secure+Systems+%26+Automation;Scalable+Architecture" alt="Typing SVG" />
 </p>
 
-
 <div align="center">
-  <img src="https://img.shields.io/badge/Security+First-007acc?style=for-the-badge&logo=lock&logoColor=white" alt="Security First" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Shift--Left-00bfff?style=for-the-badge&logo=devsecops&logoColor=black" alt="Shift-Left" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Automated+Security-61afef?style=for-the-badge&logo=shield&logoColor=white" alt="Automated Security" />
+  <img src="https://img.shields.io/badge/Engineering+First-007acc?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security+Built--In-00bfff?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/Automation+Driven-61afef?style=for-the-badge&logo=gears&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud+Ready-0db7ed?style=for-the-badge&logo=cloud&logoColor=white" />
 </div>
 
 <br><br>
 
-## 🛡️ Sobre Mim
-**DevSecOps Engineer | QA Security Specialist**  
+<h2>💻 Sobre Mim</h2>
+
+<p>
+<b>Software Engineer | DevSecOps | Backend & Cloud</b><br>
 📍 Rio de Janeiro, Brasil
+</p>
 
-Integro **segurança desde o início do ciclo** (shift-left security), automatizando testes de qualidade e segurança (E2E, API, DAST, SAST, SCA). Identifico vulnerabilidades cedo e aplico conceitos de ethical hacking para entregar sistemas mais robustos e confiáveis.
+<p>
+Atuo na construção de sistemas <b>seguros, escaláveis e automatizados</b>, integrando práticas de engenharia de software com segurança desde o início do ciclo de desenvolvimento.
+</p>
 
-**Destaque pessoal**: versatilidade — adapto-me com facilidade a diferentes papéis e tecnologias, do teste manual ao pipeline totalmente automatizado.
+<p>
+Tenho experiência desde <b>desenvolvimento backend</b> até <b>pipelines CI/CD</b>, testes automatizados e arquitetura de sistemas, sempre aplicando princípios de <b>qualidade, observabilidade e segurança</b>.
+</p>
 
-- 🔒 **Especialidade** — DevSecOps · Secure CI/CD · Application Security  
-- 🛠️ **Princípio** — Automatizar o que for possível, proteger o que for essencial  
-- 🔗 **Conexões** — [Portfolio](https://luann8.github.io/Luann-portifolio/) · [Linktree](https://luann8.github.io/LinkTree/)
+<p>
+Minha abordagem combina <b>engenharia sólida + mentalidade de segurança + automação</b> para entregar software resiliente e pronto para produção.
+</p>
+
+<ul>
+  <li>⚙️ <b>Foco</b> — Backend · Cloud · DevSecOps · Arquitetura</li>
+  <li>🔐 <b>Diferencial</b> — Segurança integrada (AppSec / DevSecOps)</li>
+  <li>🚀 <b>Objetivo</b> — Sistemas escaláveis, seguros e automatizados</li>
+</ul>
+
+<p>
+🔗 <a href="https://luann8.github.io/Luann-portifolio/">Portfolio</a> · 
+<a href="https://luann8.github.io/LinkTree/">Linktree</a>
+</p>
 
 <br>
 
-## 🏆 Atividade no GitHub
->
+<h2>🏆 Atividade no GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=0078d4&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=0078d4&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=00bfff&line=007acc&point=ffffff" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=00bfff&line=007acc&point=ffffff" />
 </p>
 
-
 <br>
 
-## 🔐 Tech Stack
+<h2>🧠 Tech Stack</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"     alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-### Aplicação prática
-
-- **Shift-Left** — Segurança no commit (pre-commit hooks, SAST, IaC scanning)  
-- **Automação** — Testes E2E/API + scans contínuos (containers, dependências, código)  
-- **Observability** — Monitoramento proativo com Grafana  
+<p align="center">
+  <img src="https://img.shields.io/badge/Observability-FF6C37?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/APIs-00bfff?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testing-61afef?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-007acc?style=for-the-badge&logo=owasp&logoColor=white" />
+</p>
 
 <br>
 
+<h3>🔍 Aplicação Prática</h3>
 
-## 📬 Vamos conversar?
-  
+<ul>
+  <li><b>Backend Engineering</b> — APIs robustas, integração de serviços e arquitetura escalável</li>
+  <li><b>DevSecOps</b> — Segurança no pipeline (SAST, DAST, SCA, IaC)</li>
+  <li><b>Cloud & Containers</b> — Deploy e orquestração com Docker/Kubernetes</li>
+  <li><b>Automação</b> — CI/CD, testes E2E e integração contínua</li>
+  <li><b>Observabilidade</b> — Monitoramento, métricas e logging</li>
+</ul>
+
 <br>
+
+<h2>📬 Contato</h2>
 
 <p align="center">
- <img width="400" height="100%" alt="image" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
+ <img width="400" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
 </p>
 
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
-    <img src="https://img.shields.io/badge/Portfolio-007acc?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-007acc?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
   <a href="https://luann8.github.io/LinkTree/">
-    <img src="https://img.shields.io/badge/Linktree-00bfff?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree" />
+    <img src="https://img.shields.io/badge/Linktree-00bfff?style=for-the-badge&logo=linktree&logoColor=black" />
   </a>
 </p>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=61afef,00bfff,007acc&height=140&section=footer&animation=twinkling" alt="Footer Wave" />
+<br>
 
-<!-- Snake -->
-<p align="center">
-&nbsp;&nbsp;<img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=61afef,00bfff,007acc&height=140&section=footer&animation=twinkling" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Feito%20com-❤️%20e%20🔒-007acc?style=flat-square&logoColor=white" alt="Feito com carinho e segurança" />
+  <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20with-💻%20+%20🔐-007acc?style=flat-square" />
 </p>
