@@ -90,7 +90,8 @@ Mentalidade:
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
+
 
 <p align="center">
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" />
@@ -99,3 +100,4 @@ Mentalidade:
 <p align="center">
   <img src="https://img.shields.io/badge/echo%20%22stay%20curious%22-000000?style=flat-square&logo=gnubash&logoColor=00ff00"/>
 </p>
+
