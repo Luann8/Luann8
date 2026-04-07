@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=180&section=header&text=Luann%20Pereira%20Mendes&fontColor=00ffcc&fontSize=50&animation=fadeIn" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5,0072ff&height=181&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=54&animation=twinkling&fontAlignY=40" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;System+Builder;Automation+%26+Low+Level;Think+Like+a+Hacker" />
