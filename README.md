@@ -76,7 +76,7 @@ Mentalidade:
 <h2>📡 $ contact --init</h2>
 
 <p align="center">
-  <img width="400" src="[https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif](https://www.bing.com/images/search?view=detailV2&ccid=5dBjvIlp&id=8AE8AB6CA9D6E95A562B46AB0912FE33D6295227&thid=OIP.5dBjvIlpvdHW3QF302FSoQHaEK&mediaurl=https%3a%2f%2f64.media.tumblr.com%2f1978bd044fa5fbe3b80b6f0d4c909f43%2ftumblr_nnuu9vyvFh1tdi44eo1_500.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e5d063bc8969bdd1d6dd0177d36152a1%3frik%3dJ1Ip1jP%252bEgmrRg%26pid%3dImgRaw%26r%3d0&exph=281&expw=500&q=gif+punk&FORM=IRPRST&ck=A07FCB101539ABDABB3F9FE3D984C73F&selectedIndex=28&itb=0)" />
+  <img width="400" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif](https://www.bing.com/images/search?view=detailV2&ccid=5dBjvIlp&id=8AE8AB6CA9D6E95A562B46AB0912FE33D6295227&thid=OIP.5dBjvIlpvdHW3QF302FSoQHaEK&mediaurl=https%3a%2f%2f64.media.tumblr.com%2f1978bd044fa5fbe3b80b6f0d4c909f43%2ftumblr_nnuu9vyvFh1tdi44eo1_500.gif&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.e5d063bc8969bdd1d6dd0177d36152a1%3frik%3dJ1Ip1jP%252bEgmrRg%26pid%3dImgRaw%26r%3d0&exph=281&expw=500&q=gif+punk&FORM=IRPRST&ck=A07FCB101539ABDABB3F9FE3D984C73F&selectedIndex=28&itb=0" />
 </p>
 
 <p align="center">
