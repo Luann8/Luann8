@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f3f&height=180&section=header&text=Luann%20Pereira%20Mendes&fontColor=00ffcc&fontSize=50&animation=fadeIn" />
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=04fbcb&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;System+Builder;Automation+%26+Low+Level;Think+Like+a+Hacker" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=04fbcb&center=true&vCenter=true&width=700&lines=Software+Engineer;Developer;System+Builder;Automation+%26+Low+Level;Think+Like+a+Hacker" />
 </p>
 
 <div align="center"> <img src="https://img.shields.io/badge/STATUS-ONLINE-04fbcb?style=for-the-badge&logo=matrix&logoColor=black" /> <img src="https://img.shields.io/badge/MODE-TERMINAL-04fbcb?style=for-the-badge&logo=gnubash&logoColor=04fbcb" /> <img src="https://img.shields.io/badge/MINDSET-HACKER-04fbcb?style=for-the-badge&logo=hackthebox&logoColor=04fbcb" /> </div>
