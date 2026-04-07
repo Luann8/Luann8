@@ -1,119 +1,103 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00d2ff,3a7bd5,0072ff&height=181&section=header&text=Luann%20Pereira%20Mendes&fontColor=ffffff&fontSize=54&animation=twinkling&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=180&section=header&text=Luann%20Pereira%20Mendes&fontColor=00ffcc&fontSize=50&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=00bfff&center=true&vCenter=true&width=700&lines=Software+Engineer;DevSecOps+Engineer;Backend+%26+Cloud;Secure+Systems+%26+Automation;Scalable+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=Software+Engineer;Backend+Developer;System+Builder;Automation+%26+Low+Level;Think+Like+a+Hacker" />
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Engineering+First-007acc?style=for-the-badge&logo=code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security+Built--In-00bfff?style=for-the-badge&logo=shield&logoColor=black" />
-  <img src="https://img.shields.io/badge/Automation+Driven-61afef?style=for-the-badge&logo=gears&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud+Ready-0db7ed?style=for-the-badge&logo=cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=matrix&logoColor=black" />
+  <img src="https://img.shields.io/badge/MODE-TERMINAL-0f0f0f?style=for-the-badge&logo=gnubash&logoColor=00ff00" />
+  <img src="https://img.shields.io/badge/MINDSET-HACKER-001100?style=for-the-badge&logo=hackthebox&logoColor=00ff00" />
 </div>
 
-<br><br>
+<br>
 
-<h2>💻 Sobre Mim</h2>
+<h2>🧠 $ whoami</h2>
+
+<pre style="background:#0d1117;color:#00ff9c;padding:15px;border-radius:8px;">
+Luann Pereira Mendes
+Software Engineer
+Location: Rio de Janeiro, BR
+Focus: Systems | Backend | Automation
+</pre>
+
+<br>
+
+<h2>⚡ Sobre</h2>
 
 <p>
-<b>Software Engineer | DevSecOps | Backend & Cloud</b><br>
-📍 Rio de Janeiro, Brasil
+Engenheiro de software focado em construir sistemas eficientes, automatizados e confiáveis.
 </p>
 
 <p>
-Atuo na construção de sistemas <b>seguros, escaláveis e automatizados</b>, integrando práticas de engenharia de software com segurança desde o início do ciclo de desenvolvimento.
+Abordagem baseada em:
+<b>entender como as coisas funcionam por baixo</b>,
+quebrar, testar e reconstruir melhor.
 </p>
 
 <p>
-Tenho experiência desde <b>desenvolvimento backend</b> até <b>pipelines CI/CD</b>, testes automatizados e arquitetura de sistemas, sempre aplicando princípios de <b>qualidade, observabilidade e segurança</b>.
-</p>
-
-<p>
-Minha abordagem combina <b>engenharia sólida + mentalidade de segurança + automação</b> para entregar software resiliente e pronto para produção.
+Mentalidade:
+<strong>"se dá pra automatizar, não deveria ser manual"</strong>
 </p>
 
 <ul>
-  <li>⚙️ <b>Foco</b> — Backend · Cloud · DevSecOps · Arquitetura</li>
-  <li>🔐 <b>Diferencial</b> — Segurança integrada (AppSec / DevSecOps)</li>
-  <li>🚀 <b>Objetivo</b> — Sistemas escaláveis, seguros e automatizados</li>
-</ul>
-
-<p>
-🔗 <a href="https://luann8.github.io/Luann-portifolio/">Portfolio</a> · 
-<a href="https://luann8.github.io/LinkTree/">Linktree</a>
-</p>
-
-<br>
-
-<h2>🏆 Atividade no GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=tokyonight&hide_border=true&background=0d1117&stroke=0078d4&ring=0078d4&fire=0078d4&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=tokyonight&area=true&hide_border=true&bg_color=0d1117&color=00bfff&line=007acc&point=ffffff" />
-</p>
-
-<br>
-
-<h2>🧠 Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Observability-FF6C37?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/APIs-00bfff?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Testing-61afef?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-007acc?style=for-the-badge&logo=owasp&logoColor=white" />
-</p>
-
-<br>
-
-<h3>🔍 Aplicação Prática</h3>
-
-<ul>
-  <li><b>Backend Engineering</b> — APIs robustas, integração de serviços e arquitetura escalável</li>
-  <li><b>DevSecOps</b> — Segurança no pipeline (SAST, DAST, SCA, IaC)</li>
-  <li><b>Cloud & Containers</b> — Deploy e orquestração com Docker/Kubernetes</li>
-  <li><b>Automação</b> — CI/CD, testes E2E e integração contínua</li>
-  <li><b>Observabilidade</b> — Monitoramento, métricas e logging</li>
+  <li>⚙️ Backend & System Design</li>
+  <li>🧩 Integração e automação</li>
+  <li>🔍 Debugging profundo</li>
+  <li>💻 Ferramentas low-level e Linux</li>
 </ul>
 
 <br>
 
-<h2>📬 Contato</h2>
+<h2>🧰 $ tech_stack --list</h2>
 
 <p align="center">
- <img width="400" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=00ff00"/>
+  <img src="https://img.shields.io/badge/Debugging-000000?style=for-the-badge&logo=bugatti&logoColor=00ff00"/>
+</p>
+
+<br>
+
+<h2>📊 $ activity --github</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=black-ice&hide_border=true&background=000000&ring=00ff00&fire=00ff00&currStreakNum=00ff00&sideNums=00ff00" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=react-dark&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&hide_border=true" />
+</p>
+
+<br>
+
+<h2>📡 $ contact --init</h2>
+
+<p align="center">
+  <img width="400" src="https://www.bram.us/wordpress/wp-content/uploads/2017/12/svg-term-cli.gif" />
 </p>
 
 <p align="center">
   <a href="https://luann8.github.io/Luann-portifolio/">
-    <img src="https://img.shields.io/badge/Portfolio-007acc?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=firefox&logoColor=00ff00"/>
   </a>
   <a href="https://luann8.github.io/LinkTree/">
-    <img src="https://img.shields.io/badge/Linktree-00bfff?style=for-the-badge&logo=linktree&logoColor=black" />
+    <img src="https://img.shields.io/badge/LINKS-000000?style=for-the-badge&logo=chainlink&logoColor=00ff00"/>
   </a>
 </p>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=61afef,00bfff,007acc&height=140&section=footer&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/>
 
 <p align="center">
   <img src="https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Built%20with-💻%20+%20🔐-007acc?style=flat-square" />
+  <img src="https://img.shields.io/badge/echo%20%22stay%20curious%22-000000?style=flat-square&logo=gnubash&logoColor=00ff00"/>
 </p>
