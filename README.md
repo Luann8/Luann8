@@ -47,10 +47,16 @@ Mentalidade:
 <h2>🧰 $ tech_stack --list</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=04fbcb"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge&logo=fastapi&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=Dart&logoColor=04fbcb"/>]
+<img src="https://img.shields.io/badge/Pop_OS-000000?style=for-the-badge&logo=popos!&logoColor=04fbcb"/>
 </p>
 
 <br>
