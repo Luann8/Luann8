@@ -47,19 +47,22 @@ Mentalidade:
 <h2>🧰 $ tech_stack --list</h2>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=04fbcb"/>
+
+  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Pop_OS-000000?style=for-the-badge&logo=popos&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=microsoft&logoColor=2EAD33"/>
+
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=04fbcb"/>
+
+  <img src="https://img.shields.io/badge/Pop!_OS-000000?style=for-the-badge&logo=system76&logoColor=04fbcb"/>
+
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=04fbcb"/>
 </p>
 
 
