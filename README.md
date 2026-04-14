@@ -63,6 +63,11 @@ Mentalidade:
 
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=04fbcb"/>
+
+  
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=docker&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Tapyscript-000000?style=for-the-badge&logo=Tapyscript&logoColor=04fbcb"/>
+
 </p>
 
 
