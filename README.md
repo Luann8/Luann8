@@ -51,8 +51,8 @@ Mentalidade:
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04fbcb"/>
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=04fbcb"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=2EAD33"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=04fbcb"/>
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=04fbcb"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=04fbcb"/>
 <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=04fbcb"/>
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=04fbcb"/>
