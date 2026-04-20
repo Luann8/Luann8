@@ -1,17 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f3f&height=180&section=header&text=Luann%20Pereira%20Mendes&fontColor=00ffcc&fontSize=50&animation=fadeIn" />
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=04fbcb&center=true&vCenter=true&width=700&lines=Software+Engineer;Developer;System+Builder;Automation+%26+Low+Level;Think+Like+a+Hacker" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=04fbcb&center=true&vCenter=true&width=700&lines=Software+Engineer;Arch+Linux+User;System+Builder;Automation+%26+Low+Level;Think+Like+a+Hacker" />
 </p>
 
-<div align="center"> <img src="https://img.shields.io/badge/STATUS-ONLINE-04fbcb?style=for-the-badge&logo=matrix&logoColor=black" /> <img src="https://img.shields.io/badge/MODE-TERMINAL-04fbcb?style=for-the-badge&logo=gnubash&logoColor=04fbcb" /> <img src="https://img.shields.io/badge/MINDSET-HACKER-04fbcb?style=for-the-badge&logo=hackthebox&logoColor=04fbcb" /> </div>
+<div align="center"> 
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-04fbcb?style=for-the-badge&logo=matrix&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/MODE-TERMINAL-04fbcb?style=for-the-badge&logo=gnubash&logoColor=04fbcb" /> 
+  <img src="https://img.shields.io/badge/OS-ARCH_LINUX-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" /> 
+</div>
 
 <br>
 
 <h2>🧠 $ whoami</h2>
 
-<pre style="background:#0d1117;color:#00ff9c;padding:15px;border-radius:8px;">
+<pre style="background:#0d1117;color:#00ff9c;padding:15px;border-radius:8px;border:1px solid #04fbcb;">
 Luann Pereira Mendes
-Software Engineer
+Software Engineer @ Arch Linux
 Location: Rio de Janeiro, BR
 Focus: Systems | Backend | Automation
 </pre>
@@ -22,24 +26,19 @@ Focus: Systems | Backend | Automation
 
 <p>
 Engenheiro de software focado em construir sistemas eficientes, automatizados e confiáveis.
-</p>
-
-<p>
-Abordagem baseada em:
-<b>entender como as coisas funcionam por baixo</b>,
-quebrar, testar e reconstruir melhor.
+Abordagem baseada em <b>entender o core</b>: quebrar, testar e reconstruir com performance.
 </p>
 
 <p>
 Mentalidade:
-<strong>"se dá pra automatizar, não deveria ser manual"</strong>
+<strong>"If it can be automated, it shouldn't be manual."</strong>
 </p>
 
 <ul>
-  <li>⚙️ Backend & System Design</li>
-  <li>🧩 Integração e automação</li>
-  <li>🔍 Debugging profundo</li>
-  <li>💻 Ferramentas low-level e Linux</li>
+  <li>⚙️ <b>Backend & System Design:</b> Arquiteturas escaláveis e robustas.</li>
+  <li>🧩 <b>Automation:</b> Scripts e pipelines que economizam tempo.</li>
+  <li>🔍 <b>Deep Debugging:</b> Tracking de bugs até o nível da syscall.</li>
+  <li>💻 <b>Power User:</b> Terminal-centric workflow no Arch Linux.</li>
 </ul>
 
 <br>
@@ -47,28 +46,20 @@ Mentalidade:
 <h2>🧰 $ tech_stack --list</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04fbcb"/>
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=04fbcb"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=04fbcb"/>
-
-  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=04fbcb"/>
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=04fbcb"/>
-
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=04fbcb"/>
-  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=04fbcb"/>
-
-  <img src="https://img.shields.io/badge/Pop!_OS-000000?style=for-the-badge&logo=popos&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=04fbcb"/>
+  
+  <br>
 
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=04fbcb"/>
-
-  
-  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=04fbcb"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=04fbcb"/>
 </p>
-
 
 <br>
 
@@ -110,4 +101,3 @@ Mentalidade:
 <p align="center">
   <img src="https://img.shields.io/badge/echo%20%22stay%20curious%22-000000?style=flat-square&logo=gnubash&logoColor=04fbcb"/>
 </p>
-
