@@ -64,10 +64,6 @@ Mentalidade:
 
 <br>
 
-<a href="https://skyline.github.com/Luann8">
-  Veja meu GitHub Skyline 🌆
-</a>
-
 <h2>📊 $ activity --github</h2>
 
 
