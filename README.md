@@ -71,8 +71,7 @@ Mentalidade:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&theme=react&hide_border=true&title_color=04fbcb&icon_color=04fbcb&text_color=ffffff&bg_color=000000" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Luann8&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&title_color=04fbcb&icon_color=04fbcb&text_color=ffffff&bg_color=000000" /></p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=react-dark&bg_color=000000&color=04fbcb&line=04fbcb&point=ffffff&hide_border=true" />
