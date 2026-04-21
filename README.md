@@ -49,7 +49,7 @@ Mentalidade:
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=04fbcb"/>
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/linux-000000?style=for-the-badge&logo=linux&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=04fbcb"/>
   
   <br>
