@@ -70,9 +70,7 @@ Mentalidade:
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luann8&layout=compact&langs_count=8&theme=react&hide_border=true&title_color=04fbcb&icon_color=04fbcb&text_color=ffffff&bg_color=000000&hide=python,classic%20asp,HTML,CSS,jupyter%20notebook" />
-</p>
 
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=react-dark&bg_color=000000&color=04fbcb&line=04fbcb&point=ffffff&hide_border=true" />
 </p>
 
