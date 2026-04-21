@@ -65,6 +65,7 @@ Mentalidade:
 
 <h2>📊 $ activity --github</h2>
 
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=black-ice&hide_border=true&background=000000&ring=04fbcb&fire=04fbcb&currStreakNum=04fbcb&sideNums=04fbcb" />
   
