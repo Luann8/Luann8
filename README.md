@@ -49,11 +49,14 @@ Mentalidade:
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=04fbcb"/>
-  <img src="https://img.shields.io/badge/dart-000000?style=for-the-badge&logo=dart&logoColor=04fbcb"/>
-  <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=04fbcb"/>
-  
-  <br>
+
+
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=04fbcb"/>
+
 
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=04fbcb"/>
@@ -61,7 +64,6 @@ Mentalidade:
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=04fbcb"/>
 </p>
-
 <br>
 
 <h2>📊 $ activity --github</h2>
