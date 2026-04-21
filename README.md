@@ -72,7 +72,7 @@ Mentalidade:
 
 <p align="center">
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=black-ice&hide_border=true&background=000000&ring=04fbcb&fire=04fbcb&currStreakNum=04fbcb&sideNums=04fbcb" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luann8&theme=black-ice&hide_border=true&background=000000&ring=04fbcb&fire=04fbcb&currStreakNum=04fbcb&sideNums=04fbcb&mode=weekly" />
   
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luann8&theme=react-dark&bg_color=000000&color=04fbcb&line=04fbcb&point=ffffff&hide_border=true" />
