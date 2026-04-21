@@ -50,7 +50,7 @@ Mentalidade:
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/dart-000000?style=for-the-badge&logo=dart&logoColor=04fbcb"/>
-  <img src="https://img.shields.io/badge/fluter-000000?style=for-the-badge&logo=fluter&logoColor=04fbcb"/>
+  <img src="https://img.shields.io/badge/flutter-000000?style=for-the-badge&logo=flutter&logoColor=04fbcb"/>
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=04fbcb"/>
   
   <br>
