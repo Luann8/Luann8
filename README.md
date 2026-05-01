@@ -11,6 +11,45 @@
 
 <br>
 
+<div style="width:300px;height:200px;background:#009c3b;position:relative;border-radius:6px;overflow:hidden;">
+
+  <!-- Losango amarelo -->
+  <div style="
+    position:absolute;
+    top:50%;
+    left:50%;
+    width:180px;
+    height:180px;
+    background:#ffdf00;
+    transform:translate(-50%,-50%) rotate(45deg);
+  "></div>
+
+  <!-- Círculo azul -->
+  <div style="
+    position:absolute;
+    top:50%;
+    left:50%;
+    width:100px;
+    height:100px;
+    background:#002776;
+    border-radius:50%;
+    transform:translate(-50%,-50%);
+  "></div>
+
+  <!-- Faixa branca -->
+  <div style="
+    position:absolute;
+    top:50%;
+    left:50%;
+    width:140px;
+    height:20px;
+    background:white;
+    transform:translate(-50%,-50%) rotate(-15deg);
+    border-radius:10px;
+  "></div>
+
+</div>
+
 <h2>🧠 $ whoami</h2>
 
 <pre style="background:#0d1117;color:#00ff9c;padding:15px;border-radius:8px;border:1px solid #04fbcb;">
