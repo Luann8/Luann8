@@ -6,7 +6,7 @@
 <div align="center"> 
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00B6CA?style=for-the-badge&logo=matrix&logoColor=04fbcb" /> 
   <img src="https://img.shields.io/badge/MODE-TERMINAL-00B6CA?style=for-the-badge&logo=gnubash&logoColor=04fbcb" /> 
-  <img src="https://img.shields.io/badge/OS-ARCH_LINUX-00B6CA?style=for-the-badge&logo=arch-linux&logoColor=04fbcb" /> 
+  <img src="https://img.shields.io/badge/OS-BIG_LINUX-00B6CA?style=for-the-badge&logo=big-linux&logoColor=04fbcb" /> 
 </div>
 
 <br>
