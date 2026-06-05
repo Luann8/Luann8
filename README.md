@@ -27,11 +27,6 @@ Automation
 <span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ <span style="animation: blink 1s infinite;">█</span>
 </pre>
 
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
 <h2>⚡ Sobre</h2>
 
 <p>
