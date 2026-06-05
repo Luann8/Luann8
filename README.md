@@ -11,13 +11,23 @@
 
 <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<pre style="background:#0d1117;color:#e6edf3;padding:15px;border-radius:8px;border:1px solid #009c3b;font-family:monospace;">
+<pre style="background:#0d1117;color:#e6edf3;padding:16px;border-radius:8px;border:1px solid #30363d;font-family:'JetBrains Mono',monospace;line-height:1.6;">
+luann@biglinux:~$ whoami
 Luann Pereira Mendes
+
+luann@biglinux:~$ cat role.txt
 Software Engineer @ Big Linux
-Location: Rio de Janeiro, BR
-Focus: Systems | Backend | Automation
+
+luann@biglinux:~$ pwd
+Rio de Janeiro, BR
+
+luann@biglinux:~$ cat focus.txt
+Systems
+Backend
+Automation
+
+luann@biglinux:~$ _
 </pre>
-<br>
 
 <h2>⚡ Sobre</h2>
 
