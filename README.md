@@ -11,21 +11,26 @@
 
 <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<code style="background:#0d1117;color:#e6edf3;padding:16px;border-radius:8px;border:1px solid #30363d;font-family:'JetBrains Mono',monospace;line-height:1.6;">
-luann@biglinux:~$ whoami
+<pre style="background:#0d1117;color:#e6edf3;padding:16px;border-radius:8px;border:1px solid #30363d;font-family:'JetBrains Mono',monospace;line-height:1.6;overflow:auto;">
+<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ whoami
 Luann Pereira Mendes
 
-luann@biglinux:~$ pwd
+<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ pwd
 Rio de Janeiro, BR
 
-luann@biglinux:~$ cat focus.txt
+<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ cat focus.txt
 Systems
 Backend
 Automation
 
-luann@biglinux:~$ _
-</code>
+<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ <span style="animation: blink 1s infinite;">█</span>
+</pre>
 
+<style>
+@keyframes blink {
+  50% { opacity: 0; }
+}
+</style>
 <h2>⚡ Sobre</h2>
 
 <p>
