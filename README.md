@@ -14,23 +14,29 @@
 <pre>
 $ neofetch
 
-       /\
-      /  \
-     / /\ \
-    / ____ \
-   /_/    \_\
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ User      : Luann Pereira Mendes
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Role      : Software Engineer @ Big Linux
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Location  : Rio de Janeiro, BR
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠁⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⢀⣀⣠⣄⣀⡀⠈⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Focus     : Backend
+⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⣠⣾⣿⣿⣿⣿⣿⣿⣷⣄⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⠿⠋⠁⠀⠀⠀⢀⣀⣀⣀⣉⡉⠙⠛⠿⣿⣿⡆⠀⠀⠀⠈⠙⠿⣿⣿⣿
+⣿⣏⡁⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⣷⣦⣌⠙⠷⠀⠀⠀⠀⠀⠀⢈⣹⣿
+⣿⣿⣿⣶⣄⡀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆⠀⠀⠀⢀⣠⣶⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠙⢿⣿⣿⣿⣿⣿⣿⡿⠋⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠈⠉⠙⠋⠉⠁⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+                              
+                              Focus     : Backend
+                                        : Systems
+                                        : Automation
 
-User      : Luann Pereira Mendes
-Role      : Software Engineer @ Big Linux
-Location  : Rio de Janeiro, BR
-
-Focus     : Backend
-          : Systems
-          : Automation
-
-Stack     : TypeScript, Python, Dart
-          : Node.js, React, Flutter
-          : Docker, Kubernetes, Linux
+                              Stack     : TypeScript, Python, Dart
+                                        : Node.js, React, Flutter
+                                        : Docker, Kubernetes, Linux
 
 Interests : Open Source
           : DevOps
