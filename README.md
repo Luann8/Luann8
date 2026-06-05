@@ -10,26 +10,34 @@
 </div>
 
 <br>
-⠀⠀⠀⠀⠀⠀<pre style="background:#0d1117;color:#e6edf3;padding:16px;border-radius:8px;border:1px solid #30363d;font-family:'JetBrains Mono',monospace;line-height:1.6;overflow:auto;">
-<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ whoami
-Luann Pereira Mendes
 
-<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ pwd
-Rio de Janeiro, BR
+<pre>
+$ neofetch
 
-<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ cat focus.txt
-Systems
-Backend
-Automation
+       /\
+      /  \
+     / /\ \
+    / ____ \
+   /_/    \_\
 
-<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ <span style="animation: blink 1s infinite;">█</span>
+User      : Luann Pereira Mendes
+Role      : Software Engineer @ Big Linux
+Location  : Rio de Janeiro, BR
+
+Focus     : Backend
+          : Systems
+          : Automation
+
+Stack     : TypeScript, Python, Dart
+          : Node.js, React, Flutter
+          : Docker, Kubernetes, Linux
+
+Interests : Open Source
+          : DevOps
+          : AI Engineering
+
+Status    : Building reliable software
 </pre>
-
-<style>
-@keyframes blink {
-  50% { opacity: 0; }
-}
-</style>
 
 <h2>⚡ Sobre</h2>
 
