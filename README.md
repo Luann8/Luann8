@@ -30,7 +30,6 @@ luann8@biglinux ~> fastfetch
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿           : DevOps
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿           : AI Engineering
                               
-Status    : Building reliable software
 </pre>
 
 <h2>⚡ Sobre</h2>
