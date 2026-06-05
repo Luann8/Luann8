@@ -11,7 +11,7 @@
 
 <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-<pre style="background:#0d1117;color:#e6edf3;padding:16px;border-radius:8px;border:1px solid #30363d;font-family:'JetBrains Mono',monospace;line-height:1.6;">
+<code style="background:#0d1117;color:#e6edf3;padding:16px;border-radius:8px;border:1px solid #30363d;font-family:'JetBrains Mono',monospace;line-height:1.6;">
 luann@biglinux:~$ whoami
 Luann Pereira Mendes
 
@@ -24,7 +24,7 @@ Backend
 Automation
 
 luann@biglinux:~$ _
-</pre>
+</code>
 
 <h2>⚡ Sobre</h2>
 
