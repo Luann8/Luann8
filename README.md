@@ -19,29 +19,17 @@ $ neofetch
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Location  : Rio de Janeiro, BR
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠁⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⢀⣀⣠⣄⣀⡀⠈⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Focus     : Backend
-⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⣠⣾⣿⣿⣿⣿⣿⣿⣷⣄⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⠿⠋⠁⠀⠀⠀⢀⣀⣀⣀⣉⡉⠙⠛⠿⣿⣿⡆⠀⠀⠀⠈⠙⠿⣿⣿⣿
-⣿⣏⡁⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⣷⣦⣌⠙⠷⠀⠀⠀⠀⠀⠀⢈⣹⣿
-⣿⣿⣿⣶⣄⡀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆⠀⠀⠀⢀⣠⣶⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠙⢿⣿⣿⣿⣿⣿⣿⡿⠋⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠈⠉⠙⠋⠉⠁⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⣠⣾⣿⣿⣿⣿⣿⣿⣷⣄⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿           : Systems
+⣿⣿⣿⠿⠋⠁⠀⠀⠀⢀⣀⣀⣀⣉⡉⠙⠛⠿⣿⣿⡆⠀⠀⠀⠈⠙⠿⣿⣿⣿           : Automation
+⣿⣏⡁⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⣷⣦⣌⠙⠷⠀⠀⠀⠀⠀⠀⢈⣹⣿ 
+⣿⣿⣿⣶⣄⡀⠀⠀⠀⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠆⠀⠀⠀⢀⣠⣶⣿⣿⣿ Stack     : TypeScript, Python, Dart
+⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠙⢿⣿⣿⣿⣿⣿⣿⡿⠋⠀⢀⣤⣶⣿⣿⣿⣿⣿⣿           : Node.js, React, Flutter
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⡀⠈⠉⠙⠋⠉⠁⢀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿           : Docker, Kubernetes, Linux
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄⡀⢀⣠⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Interests : Open Source
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿           : DevOps
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿           : AI Engineering
                               
-                              Focus     : Backend
-                                        : Systems
-                                        : Automation
-
-                              Stack     : TypeScript, Python, Dart
-                                        : Node.js, React, Flutter
-                                        : Docker, Kubernetes, Linux
-
-Interests : Open Source
-          : DevOps
-          : AI Engineering
-
 Status    : Building reliable software
 </pre>
 
