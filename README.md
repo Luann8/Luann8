@@ -10,16 +10,12 @@
 </div>
 
 <br>
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <pre style="background:#0d1117;color:#e6edf3;padding:15px;border-radius:8px;border:1px solid #009c3b;font-family:monospace;">
 Luann Pereira Mendes
 Software Engineer @ Big Linux
 Location: Rio de Janeiro, BR
 Focus: Systems | Backend | Automation
-
 </pre>
 <br>
 
