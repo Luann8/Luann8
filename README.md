@@ -12,7 +12,8 @@
 <br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 <pre style="background:#0d1117;color:#e6edf3;padding:16px;border-radius:8px;border:1px solid #30363d;font-family:'JetBrains Mono',monospace;line-height:1.6;overflow:auto;">
-<span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ whoami
+
+  <span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ whoami
 Luann Pereira Mendes
 
 <span style="color:#3fb950;">luann@biglinux</span>:<span style="color:#58a6ff;">~</span>$ pwd
