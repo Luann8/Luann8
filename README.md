@@ -15,10 +15,10 @@
 luann8@biglinux ~> fastfetch
   
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ User      : Luann Pereira Mendes
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Role      : Software Engineer @ Big Linux
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Role      : Software Engineer 
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Location  : Rio de Janeiro, BR
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠋⠁⠈⠙⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ 
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⢀⣀⣠⣄⣀⡀⠈⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Focus     : Backend
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠁⢀⣀⣠⣄⣀⡀⠈⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Focus     : Test
 ⣿⣿⣿⣿⣿⣿⠿⠛⠁⠀⣠⣾⣿⣿⣿⣿⣿⣿⣷⣄⠀⠈⠛⠿⣿⣿⣿⣿⣿⣿           : Systems
 ⣿⣿⣿⠿⠋⠁⠀⠀⠀⢀⣀⣀⣀⣉⡉⠙⠛⠿⣿⣿⡆⠀⠀⠀⠈⠙⠿⣿⣿⣿           : Automation
 ⣿⣏⡁⠀⠀⠀⠀⠀⠀⢾⣿⣿⣿⣿⣿⣿⣷⣦⣌⠙⠷⠀⠀⠀⠀⠀⠀⢈⣹⣿ 
