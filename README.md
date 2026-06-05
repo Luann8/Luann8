@@ -15,9 +15,6 @@
 luann@biglinux:~$ whoami
 Luann Pereira Mendes
 
-luann@biglinux:~$ cat role.txt
-Software Engineer @ Big Linux
-
 luann@biglinux:~$ pwd
 Rio de Janeiro, BR
 
