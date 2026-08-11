@@ -34,7 +34,7 @@ luann8@omarchy ~> fastfetch
                               
 </pre>
 
-<h2>⚡ Sobre</h2>
+<h2>$ cat sobre.md</h2>
 
 <p>
 Engenheiro de software focado em construir sistemas eficientes, automatizados e confiáveis.
@@ -55,7 +55,7 @@ Mentalidade:
 
 <br>
 
-<h2>🧰 $ tech_stack --list</h2>
+<h2>$ tech_stack --list</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=04fbcb"/>
@@ -78,7 +78,7 @@ Mentalidade:
 </p>
 <br>
 
-<h2>📊 $ activity --github</h2>
+<h2>$ activity --github</h2>
 
 
 <p align="center">
@@ -91,7 +91,7 @@ Mentalidade:
 
 <br>
 
-<h2>📡 $ contact --init</h2>
+<h2> $ contact --init</h2>
 
 <p align="center">
   <img width="400" src="https://64.media.tumblr.com/1978bd044fa5fbe3b80b6f0d4c909f43/tumblr_nnuu9vyvFh1tdi44eo1_500.gif" />
