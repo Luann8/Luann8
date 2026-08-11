@@ -6,13 +6,16 @@
 <div align="center"> 
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00B6CA?style=for-the-badge&logo=matrix&logoColor=04fbcb" /> 
   <img src="https://img.shields.io/badge/MODE-TERMINAL-00B6CA?style=for-the-badge&logo=gnubash&logoColor=04fbcb" /> 
-  <img src="https://img.shields.io/badge/OS-BIG_LINUX-00B6CA?style=for-the-badge&logo=arch-linux&logoColor=04fbcb" /> 
+  <img src="https://img.shields.io/badge/OMARCHY-00B6CA?style=for-the-badge&logo=arch-linux&logoColor=04fbcb" /> 
+  <img src="https://img.shields.io/badge/LINUX-00B6CA?style=for-the-badge&logo=linux&logoColor=04fbcb" /> 
+
 </div>
+
 
 <br>
 
 <pre>
-luann8@biglinux ~> fastfetch
+luann8@omarchy ~> fastfetch
   
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ User      : Luann Pereira Mendes
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Role      : Software Engineer 
