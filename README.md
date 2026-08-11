@@ -11,9 +11,9 @@
 
 
 <br>
+<h2>luann8@omarchy ~> fastfetch</h2>
 
 <pre>
-luann8@omarchy ~> fastfetch
   
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ User      : Luann Pereira Mendes
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ Role      : Software Engineer 
