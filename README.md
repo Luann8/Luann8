@@ -42,7 +42,7 @@ Abordagem baseada em <b>entender o core</b>: quebrar, testar e reconstruir com p
 
 <p>
 Mentalidade:
-<strong>"If it can be automated, it shouldn't be manual."</strong>
+<strong>"Se precisar de mais tempo, nós providenciaremos"</strong>
 </p>
 
 <ul>
