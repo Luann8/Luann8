@@ -4,10 +4,9 @@
 </p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00B6CA?style=for-the-badge&logo=matrix&logoColor=04fbcb" alt="Status" />
-  <img src="https://img.shields.io/badge/MODE-TERMINAL-00B6CA?style=for-the-badge&logo=gnubash&logoColor=04fbcb" alt="Terminal" />
-  <img src="https://img.shields.io/badge/ARCH-00B6CA?style=for-the-badge&logo=arch-linux&logoColor=04fbcb" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/LINUX-00B6CA?style=for-the-badge&logo=linux&logoColor=04fbcb" alt="Linux" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-000000?style=for-the-badge&logo=matrix&logoColor=04fbcb" alt="Status" />
+  <img src="https://img.shields.io/badge/MODE-TERMINAL-000000?style=for-the-badge&logo=gnubash&logoColor=04fbcb" alt="Terminal" />
+  <img src="https://img.shields.io/badge/OMARCHY-ARCHY-000000?style=for-the-badge&logo=omarchy&logoColor=04fbcb" />
 </div>
 
 
