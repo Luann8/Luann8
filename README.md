@@ -11,7 +11,7 @@
 
 
 <br>
-<h2>luann8@omarchy ~> fastfetch</h2>
+<h2>$luann8@omarchy ~> fastfetch</h2>
 
 <pre>
   
